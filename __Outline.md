@@ -30,7 +30,10 @@ Build out a quick and dirty pilot and start creating things again. Test it in on
 - [x] Deploy T3 project ✅ 2024-03-15
 - [ ] Set up dev and production Database
 - [ ] Seed script for Database
-- [ ] Flesh out database schemas
+- [x] Flesh out database schemas ✅ 2024-03-16
+- [ ] Set up Google Auth
+- [ ] Build login screen
+- [ ] Create database models
 - [ ] Create the API endpoints
 - [ ] Build a list view with list of quizzes 
 - [ ] Mock up UI for the main test view 
@@ -38,5 +41,8 @@ Build out a quick and dirty pilot and start creating things again. Test it in on
 - [ ] Create the main view using the UI mockups
 - [ ] Plug front end and API endpoints
 - [ ] Make UI interactive
+- [ ] Set up Microsoft Clarity
+- [ ] Set up analytics and tracking events with Mixpanel
+- [ ] Build data streaming capability so we don't run into timeout issues
 
 
