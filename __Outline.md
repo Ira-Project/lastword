@@ -31,8 +31,9 @@ Build out a quick and dirty pilot and start creating things again. Test it in on
 - [ ] Set up dev and production Database
 - [ ] Seed script for Database
 - [x] Flesh out database schemas ✅ 2024-03-16
-- [ ] Set up Google Auth
-- [ ] Build login screen
+- [x] Set up Google Auth ✅ 2024-03-19
+- [x] Build login screen ✅ 2024-03-19
+- [ ] Update images in login screen
 - [ ] Create database models
 - [ ] Create the API endpoints
 - [ ] Build a list view with list of quizzes 
