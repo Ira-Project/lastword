@@ -20,10 +20,10 @@ Build out a quick and dirty pilot and start creating things again. Test it in on
 - [x] Flesh out exactly what the product could look like ✅ 2024-03-12
 
 ### AI 
-- [ ] Replicate experiment for one topic in Chemistry
+- [x] Replicate experiment for one topic in Chemistry ✅ 2024-03-20
 - [ ] Replicate experiment for one topic in Physics
-- [ ] Read a few research papers and explore other similar projects
 - [ ] Create training data set for fine tuning in one topic
+- [ ] Fine tune GPT 3.5 and experiment with it
 
 ### Web App 
 - [x] Set up the T3 project ✅ 2024-03-15
