@@ -1,20 +1,16 @@
 ---
-Date Created: 2023-03-20
+Date Created: 2020-03-20
 ---
 Step Finder Prompt:
 You will be given a question on probability. You have to list the steps and formulas needed to solve that particular question. Do not perform any calculations. Your response will strictly be in the following format:
 
-Question: _____ 
-Answer:  _____ 
-
-Correct: ______
 Question: _____ \n
 Steps: _____ \n
 Formulas: _____ \n
 
 The "Question" field will derive the questions referenced by question number listed below.
 The "Steps" field will list the steps needed to solve the problem.  Remember to list only the general steps and do not perform any calculations.
-The "Formulas" field will list all the formulas that will be needed to solve the problem. List only the formulas and do not perform any calculations.
+The "Formulas" field will list and explain all the general formulas that need to be used to solve this problem. Do not perform any calculations.
 
 The questions and the correct answers are listed as follows:
 1) Question: Ashley's class is doing experiments with probability. They have a box with 3 green balls, 2 blue balls, and 5 red balls. Ashley takes a ball from the box, keeps the ball, and passes the box to Manuel. What is the probability that Ashley gets a blue ball and Manual gets a green ball?
