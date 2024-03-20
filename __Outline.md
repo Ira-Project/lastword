@@ -13,26 +13,26 @@ Build out a quick and dirty pilot and start creating things again. Test it in on
 - Who can I talk to who might provide insights? Nivedh might be a good person to talk to. Similarly can speak to my mom who also has considerable teaching experience. Harithas and Sobhana also might be good resources to reach out to. 
 - What can I read or listen to for relevant ideas? I'm reading Seymour Papert already but I should also explore Jean Piaget and Resnick's ideas. 
 
-### Actions Completed
+### General Actions
 - [x] Brainstorm with Harithas, Sobhana, Nivedh, Amma and Karthik ✅ 2024-02-29
 - [x] Play around with GPT and see what kind of results you're getting ✅ 2024-03-12
 - [x] Try separating out questions and see if the results can be improved ✅ 2024-03-13
 - [x] Flesh out exactly what the product could look like ✅ 2024-03-12
 
-### AI 
+### AI Actions
 - [x] Replicate experiment for one topic in Chemistry ✅ 2024-03-20
-- [ ] Replicate experiment for one topic in Physics
-- [ ] Create training data set for fine tuning in one topic
-- [ ] Fine tune GPT 3.5 and experiment with it
+- [x] Fine tune GPT 3.5 and experiment with it ✅ 2024-03-21
+- [ ] Test one question in physics
+- [ ] Create a benchmark questions and prompts for three different subjects
 
-### Web App 
+### Web App Actions
 - [x] Set up the T3 project ✅ 2024-03-15
 - [x] Deploy T3 project ✅ 2024-03-15
-- [ ] Set up dev and production Database
-- [ ] Seed script for Database
 - [x] Flesh out database schemas ✅ 2024-03-16
 - [x] Set up Google Auth ✅ 2024-03-19
 - [x] Build login screen ✅ 2024-03-19
+- [ ] Set up dev and production Database
+- [ ] Seed script for Database
 - [ ] Update images in login screen
 - [ ] Create database models
 - [ ] Create the API endpoints
