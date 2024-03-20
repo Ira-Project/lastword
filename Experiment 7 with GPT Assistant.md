@@ -1,3 +1,6 @@
+---
+Date Created: 2023-03-20
+---
 Step Finder Prompt:
 You will be given a question on probability. You have to list the steps and formulas needed to solve that particular question. Do not perform any calculations. Your response will strictly be in the following format:
 
