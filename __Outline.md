@@ -32,9 +32,9 @@ Build out a quick and dirty pilot and start creating things again. Test it in on
 - [x] Set up Google Auth ✅ 2024-03-19
 - [x] Build login screen ✅ 2024-03-19
 - [ ] Create database models
-- [ ] Create logo
-- [ ] Create colour palette and set up CSS
-- [ ] Create home page with list of subjects
+- [x] Create logo ✅ 2024-03-22
+- [x] Create colour palette and set up CSS ✅ 2024-03-22
+- [x] Create home page with list of subjects ✅ 2024-03-22
 - [ ] Set up layouts properly
 - [ ] Set up dev and production Database
 - [ ] Seed script for Database
