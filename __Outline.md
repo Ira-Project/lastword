@@ -31,10 +31,13 @@ Build out a quick and dirty pilot and start creating things again. Test it in on
 - [x] Flesh out database schemas ✅ 2024-03-16
 - [x] Set up Google Auth ✅ 2024-03-19
 - [x] Build login screen ✅ 2024-03-19
+- [ ] Create database models
+- [ ] Create logo
+- [ ] Create colour palette and set up CSS
+- [ ] Create home page with list of subjects
+- [ ] Set up layouts properly
 - [ ] Set up dev and production Database
 - [ ] Seed script for Database
-- [ ] Update images in login screen
-- [ ] Create database models
 - [ ] Create the API endpoints
 - [ ] Build a list view with list of quizzes 
 - [ ] Mock up UI for the main test view 
