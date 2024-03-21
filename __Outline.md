@@ -18,6 +18,7 @@ Build out a quick and dirty pilot and start creating things again. Test it in on
 - [x] Play around with GPT and see what kind of results you're getting ✅ 2024-03-12
 - [x] Try separating out questions and see if the results can be improved ✅ 2024-03-13
 - [x] Flesh out exactly what the product could look like ✅ 2024-03-12
+- [ ] Better documentation of all Git repositories
 
 ### AI Actions
 - [x] Replicate experiment for one topic in Chemistry ✅ 2024-03-20
