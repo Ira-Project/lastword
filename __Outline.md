@@ -23,7 +23,8 @@ Build out a quick and dirty pilot and start creating things again. Test it in on
 - [x] Replicate experiment for one topic in Chemistry ✅ 2024-03-20
 - [x] Fine tune GPT 3.5 and experiment with it ✅ 2024-03-21
 - [ ] Test one question in physics
-- [ ] Create a benchmark questions and prompts for three different subjects
+- [ ] Create a test repository
+- [ ] Set up all test cases
 
 ### Web App Actions
 - [x] Set up the T3 project ✅ 2024-03-15
