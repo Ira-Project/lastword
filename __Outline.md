@@ -39,13 +39,9 @@ Build out a quick and dirty pilot and start creating things again. Test it in on
 - [x] Create home page with list of subjects ✅ 2024-03-22
 - [x] Set up layouts properly ✅ 2024-03-22
 - [x] Seed script for Database ✅ 2024-03-22
-- [ ] Create the API endpoints
-- [ ] Build a list view with list of tests 
-- [ ] Mock up UI for the main test view 
-- [ ] Ask for feedback regarding the view layer
-- [ ] Create the main view using the UI mockups
+- [x] Build a list view with list of tests ✅ 2024-03-25
+- [ ] Create the main testing view
 - [ ] Plug front end and API endpoints
-- [ ] Make UI interactive
 - [ ] Set up Microsoft Clarity
 - [ ] Set up analytics and tracking events with Mixpanel
 - [ ] Build data streaming capability so we don't run into timeout issues
