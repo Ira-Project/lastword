@@ -43,6 +43,7 @@ Build out a quick and dirty pilot and start creating things again. Test it in on
 - [x] Create the main testing view ✅ 2024-03-28
 - [x] Create test attempt on modal close ✅ 2024-03-28
 - [ ] Prevent browser navigation in test view
+- [ ] Build endpoint to test explanation for each question
 - [ ] Build data streaming capability so we don't run into timeout issues
 - [ ] Set up Microsoft Clarity
 - [ ] Set up analytics and tracking events
