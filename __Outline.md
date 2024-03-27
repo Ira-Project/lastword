@@ -1,11 +1,11 @@
 ### Purpose
-I have an idea on how technology can be used for learning and I want to explore it a bit further and run some experiments. If I can find conviction in the idea and overcome my fear of failing I'll pursue it.
+We have an idea on how technology can be used for learning and we want to explore it a bit further and run some experiments. If we can find conviction in the idea we can decide to pursue it further.
 
 ### Principles 
-- Experiment - The idea is not to code out a perfect product or to constrain myself based on what I think I might be able to code out. The main goal is to get over my current mindset and get my building brain on.
+- Experiment - The idea is not to code out a perfect product or to constrain myself based on what we think we might be able to code out. The main goal is to get over the current mindset and get back into building things.
 
 ### Outcome Visioning
-Build out a quick and dirty pilot and start creating things again. Test it in one or two different settings with one or two different types of topics. Once you're feeling good about pursuing this you can work towards convincing others. 
+Build out a quick and dirty pilot and start creating things again. Test it in one or two different settings with few users. Once we're feeling good about pursuing this we can work towards convincing others. 
 
 ### Brainstorming
 - What do I already know about this project? I have a general idea of how I want to implement the idea but haven't worked out the details. I need to scope out an MVP and perhaps talk to someone with more of a teaching background. 
@@ -40,14 +40,17 @@ Build out a quick and dirty pilot and start creating things again. Test it in on
 - [x] Set up layouts properly ✅ 2024-03-22
 - [x] Seed script for Database ✅ 2024-03-22
 - [x] Build a list view with list of tests ✅ 2024-03-25
-- [ ] Create the main testing view
-- [ ] Plug front end and API endpoints
+- [x] Create the main testing view ✅ 2024-03-28
+- [x] Create test attempt on modal close ✅ 2024-03-28
+- [ ] Prevent browser navigation in test view
+- [ ] Build data streaming capability so we don't run into timeout issues
 - [ ] Set up Microsoft Clarity
 - [ ] Set up analytics and tracking events with Mixpanel
-- [ ] Build data streaming capability so we don't run into timeout issues
 - [ ] Built better logout capability
 - [ ] Set up loading states for pages
-- [ ] Investigate SSG for the pages
-- [ ] Set up dev and production Database
+- [x] Back and forward bug ✅ 2024-03-28
 
+### Future Features
+- Set timer
+- Investigate SSG for the pages
 
