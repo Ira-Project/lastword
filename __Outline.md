@@ -45,12 +45,13 @@ Build out a quick and dirty pilot and start creating things again. Test it in on
 - [ ] Prevent browser navigation in test view
 - [ ] Build data streaming capability so we don't run into timeout issues
 - [ ] Set up Microsoft Clarity
-- [ ] Set up analytics and tracking events with Mixpanel
-- [ ] Built better logout capability
-- [ ] Set up loading states for pages
+- [ ] Set up analytics and tracking events
 - [x] Back and forward bug ✅ 2024-03-28
 
 ### Future Features
-- Set timer
+- Set time limits on tests
+- Loading states for all api calls
+- Better logout page
+- Load test attempts and pick up where you left off
 - Investigate SSG for the pages
 
