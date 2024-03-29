@@ -91,4 +91,4 @@ In the second JSON, the "Formula" field lists each formula. The "Stated explicit
 
 ### User Prompt ###
 
-The explanation given by the teacher is as follows: Probability is defined as the number of favorable outcomes divided by the total number of outcomes.
+The explanation given by the teacher is as follows: Probability is defined as the number of favorable outcomes divided by the total number of outcomes. The total number of outcomes is all the possible outcomes for a given event.
