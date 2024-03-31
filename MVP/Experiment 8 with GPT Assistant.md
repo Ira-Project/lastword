@@ -37,7 +37,7 @@ Steps: _____ \n
 Formulas: _____ \n
 
 The "Question" field will derive the questions referenced by question number listed below.
-The "Steps" field will list the steps needed to solve the problem.  Remember to list only the general steps and do not perform any calculations.
+The "Steps" field will list the steps needed to solve the problem.  Remember to list only the general steps and do not tailor the steps to that particular question. Do not perform any calculations. 
 The "Formulas" field will list all formulas that are needed to solve this problem. Do not perform any calculations. Remember to list formulas for probability in a general manner and not tailored to that specific question.
 
 The questions and the correct answers are listed as follows:
@@ -54,41 +54,63 @@ Answer: 0.9735
 6) Calculate the valency of element with atomic number 17
 Answer: 1
 
-### Step Evaluator Prompt
+### Explanation Evaluator Prompt
 
 You are a student in a grade 10 math classroom. You have just learned about probability from an explanation given by your teacher. Now, you have use that explanation to derive some formulas and steps related to probability. These formulas and steps can then be used to solve a given question.
 
 Follow these intructions strictly to derive the formulas and steps:
 1) You have to use only the explanation provided by the teacher.
-2) For each formula given in the "Formulas" field, state if the teacher's explanation explicitily states how to derive that formula? Also state if the teacher's explanation is correct about that formula.
-3) For each step given in the "Steps" field, state if the teacher's explanation explicitily states how to derive and compute that step? Also state if the teacher's explanation is correct about that step.
+2) For each step given in the "Correct Steps" field, state if the teacher's explanation explicitily states how to derive and compute that step? Also state if the teacher's explanation matches correctly with that step.
+3) For each formula given in the "Correct Formulas" field, state if the teacher's explanation explicitily states how to derive that formula? Also state if the teacher's explanation matches correctly with that formula.
 4) Do not make any inferences beyond what is explicitly stated in the explanation. You have zero knowledge about probability.
 5) The question will be given in the "Question" field. Do not solve the question.
 
-Formulas:
-Probability = Number of favourable outcomes / Total number of outcomes
-Joint probability = Probability of event A * Probability of event B
+Correct Steps:
+1) Identify the total number of outcomes/event space.
+2) Identify the desired outcome. In this case, the desired outcome is that Ashley gets a blue ball and Manuel gets a green ball.
+3) Calculate the probability of the first event (Ashley getting a blue ball).
+4) Calculate the probability of the second event (Manuel getting a green ball) based on the new total number of outcomes after the first event.
+5) Finally, calculate the joint probability of the two events occurring together.
 
-Steps:
-1) Identify the total number of balls.
-2) Identify the number of favourable outcomes for Ashley (Number of blue balls).
-3) Calculate the probability of Ashley drawing a blue ball.
-4) Identify the total number of balls left after Ashley has drawn a ball.
-5) Identify the number of favourable outcomes for Manuel (Number of green balls).
-6) Calculate the probability of Manuel drawing a green ball after Ashley has drawn a ball.
-7) MULTIPLY these two probabilities together to find the joint probability of both events occurring.
+Correct Formulas:
+1) Probability = Number of favourable outcomes / Total number of outcomes
+2) Joint probability = Probability of event A * Probability of event B
 
 Question:
 Ashley's class is doing experiments with probability. They have a box with 3 green balls, 2 blue balls, and 5 red balls. Ashley takes a ball from the box, keeps the ball, and passes the box to Manuel. What is the probability that Ashley gets a blue ball and Manuel gets a green ball?
 
 Your final response should produce two JSONS that strictly adhere to the following format:
-1) {Step: , Stated explicitly: , Correctly stated: }
-2) {Formula: , Stated explicitly: , Correctly stated: }
+1) {Step: , Stated explicitly: , Correctly stated: , Computed step: }
+2) {Formula: , Stated explicitly: , Correctly stated: , Incorrect formula: }
 
-In the first JSON, the "Step" field lists each step. The "Stated explicitly" field will contain "Yes" if that particular step was stated explicitly in the explanation given by the teacher. Otherwise, it will contain "No". The "Correctly stated" field will contain "Yes" if that particular step was correctly stated in the explanation given by the teacher. Otherwise, it will contain "No"
-In the second JSON, the "Formula" field lists each formula. The "Stated explicitly" field will contain "Yes" if that particular formula was stated explicitly in the explanation given by the teacher. Otherwise, it will contain "No". The "Correctly stated" field will contain "Yes" if that particular formula was correctly stated in the explanation given by the teacher. Otherwise, it will contain "No"
+In the first JSON, the "Step" field lists each step. The "Stated explicitly" field will contain "Yes" if that particular step was stated explicitly in the explanation given by the teacher. Otherwise, it will contain "No". The "Correctly stated" field will contain "Yes" if that particular step was correctly stated in the explanation given by the teacher. Otherwise, it will contain "No". If the step was not stated in the explanation, that is, if the "Stated explicitly" field contains "No", then the "Correctly stated" field will contain "Not Applicable". If the step was stated correctly in the explanation, that is, the "Stated explicitly" field contains "Yes" and the "Correctly stated" field contains "Yes", then follow the instructions given in that step as listed in the "Correct Steps" above and write the response in the "Computed step" field. Otheriwse, write "Not Applicable" in the "Computed step" field. 
+In the second JSON, the "Formula" field lists each formula. The "Stated explicitly" field will contain "Yes" if that particular formula was stated explicitly in the explanation given by the teacher. Otherwise, it will contain "No". The "Correctly stated" field will contain "Yes" if that particular formula was correctly stated in the explanation given by the teacher. Otherwise, it will contain "No". If the formula was not stated in the explanation, that is, if the "Stated explicitly" field contains "No", then the "Correctly stated" field will contain "Not Applicable". If the formula derived from the explanation given by the teacher is incorrect, then write the incorrect formula in the "Incorrect formula" field. Otherwise, write "Not Applicable" in the "Incorrect formula" field.
+
+### Explanation Evaluator Prompt (w/ Functions tool)
+
+You are required to assess the explanation given by a grade 10 math teacher. The teacher is tasked with explaining the concepts of probability to the student. The explanation given by the teacher will then be used to derive some formulas and steps related to probability. These formulas and steps can then be used to solve a given question.
+
+Follow these intructions strictly to evaluate the explanation given by the teacher:
+1) The question is listed in the "Questions" field below.
+2) The steps required to solve the question are listed in the "Correct Steps" field below. Run the evaluate_steps function for each step given in the "Correct Steps" field. If the function returns "True" perform that step.
+3) The formulas required to solve the question are listed in the "Correct Formulas" field below. Run the evaluate_formulas function for each formula given in the "Correct Formulas" field.
+4) Do not make any inferences beyond what is explicitly stated in the explanation. You have zero knowledge about probability.
+
+Correct Steps:
+1) Identify the total number of outcomes/event space.
+2) Identify the desired outcome. In this case, the desired outcome is that Ashley gets a blue ball and Manuel gets a green ball.
+3) Calculate the probability of the first event (Ashley getting a blue ball).
+4) Calculate the probability of the second event (Manuel getting a green ball) based on the new total number of outcomes after the first event.
+5) Finally, calculate the joint probability of the two events occurring together.
+
+Correct Formulas:
+1) Probability = Number of favourable outcomes / Total number of outcomes
+2) Joint probability = Probability of event A * Probability of event B
+
+Question:
+Ashley's class is doing experiments with probability. They have a box with 3 green balls, 2 blue balls, and 5 red balls. Ashley takes a ball from the box, keeps the ball, and passes the box to Manuel. What is the probability that Ashley gets a blue ball and Manuel gets a green ball?
 
 
 ### User Prompt ###
 
-The explanation given by the teacher is as follows: Probability is defined as the number of favorable outcomes divided by the total number of outcomes. The total number of outcomes is all the possible outcomes for a given event.
+The explanation given by the teacher is as follows: Probability is defined as the number of favorable outcomes divided by the total number of outcomes. The total number of outcomes is all the possible outcomes of a given event.
