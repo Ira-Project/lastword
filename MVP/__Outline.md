@@ -46,12 +46,12 @@ Build out a quick and dirty pilot and start creating things again. Test it in on
 - [x] Build endpoint to test explanation for each question ✅ 2024-03-29
 - [x] Handle various question states ✅ 2024-03-29
 - [x] Back and forward bug ✅ 2024-03-31
-- [ ] Fix text overflow in question explanation
-- [ ] Clean up styles across the application
+- [x] Connect web application with OpenAI assistants ✅ 2024-04-05
+- [x] Fix text overflow in question explanation ✅ 2024-04-05
+- [x] Clean up styles across the application ✅ 2024-04-05
 - [ ] Handle submit test and show modal with final score
 - [ ] Make the instructions clearer
 - [ ] Create OpenAI assistants for each test case
-- [ ] Connect web application with OpenAI assistants
 
 ### Future Features
 - Set time limits on tests
