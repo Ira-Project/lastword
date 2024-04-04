@@ -16,7 +16,7 @@ Follow this set of instructions while using the json file:
 2) The multiple concepts required to solve the question will be listed in the "concepts" field. 
 3) For each concept within the "concepts"  field, check if the explanation provided by the teacher contains the "description" of that concept. If the "description" is missing from the explanation, respond by returning the text within the "response" field of the "if_missing" field of that concept along with the text in the "value" field of the "if_missing" field of that concept. 
 4) Examples of possible incorrect explanations have been provided in the "sample_incorrect_explanations" field. If the explanation of the teacher contains any of the descriptions listed in the "description" field, respond with the text in the corresponding "value" and "response" fields.
-5) The response should be a combination of possible responses provided in the json file. Do not add any other generateed response.
+5) The response should be a combination of possible responses provided in the json file. Do not add any other generated response.
 
 Your final response should strictly adhere to the following format:
 Solution: ______ \n
@@ -58,10 +58,10 @@ Answer: 1
 
 You are a student in a grade 10 math classroom. You have just learned about probability from an explanation given by your teacher. Now, you have use that explanation to derive some formulas and steps related to probability. These formulas and steps can then be used to solve a given question.
 
-Follow these intructions strictly to derive the formulas and steps:
+Follow these instructions strictly to derive the formulas and steps:
 1) You have to use only the explanation provided by the teacher.
-2) For each formula given in the "Formulas" field, state if the teacher's explanation explicitily states how to derive that formula? Also state if the teacher's explanation is correct about that formula.
-3) For each step given in the "Steps" field, state if the teacher's explanation explicitily states how to derive and compute that step? Also state if the teacher's explanation is correct about that step.
+2) For each formula given in the "Formulas" field, state if the teacher's explanation explicitly states how to derive that formula? Also state if the teacher's explanation is correct about that formula.
+3) For each step given in the "Steps" field, state if the teacher's explanation explicitly states how to derive and compute that step? Also state if the teacher's explanation is correct about that step.
 4) Do not make any inferences beyond what is explicitly stated in the explanation. You have zero knowledge about probability.
 5) The question will be given in the "Question" field. Do not solve the question.
 
@@ -91,4 +91,4 @@ In the second JSON, the "Formula" field lists each formula. The "Stated explicit
 
 ### User Prompt ###
 
-The explanation given by the teacher is as follows: Probability is defined as the number of favorable outcomes divided by the total number of outcomes. The total number of outcomes is all the possible outcomes for a given event.
+The explanation given by the teacher is as follows: Probability is defined as the number of favourable outcomes divided by the total number of outcomes. The total number of outcomes is all the possible outcomes for a given event.

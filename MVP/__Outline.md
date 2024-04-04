@@ -18,14 +18,15 @@ Build out a quick and dirty pilot and start creating things again. Test it in on
 - [x] Play around with GPT and see what kind of results you're getting ✅ 2024-03-12
 - [x] Try separating out questions and see if the results can be improved ✅ 2024-03-13
 - [x] Flesh out exactly what the product could look like ✅ 2024-03-12
-- [ ] Better documentation of all Git repositories
+- [x] Better documentation of all Git repositories ✅ 2024-04-04
 
 ### AI Actions
 - [x] Replicate experiment for one topic in Chemistry ✅ 2024-03-20
 - [x] Fine tune GPT 3.5 and experiment with it ✅ 2024-03-21
-- [ ] Test one question in physics
-- [ ] Create a test repository
-- [ ] Set up all test cases
+- [x] Create a test repository ✅ 2024-04-04
+- [x] Set up all test cases ✅ 2024-04-04
+- [ ] Create Chemistry tests
+- [ ] Create Physics tests
 
 ### Web App Actions
 - [x] Set up the T3 project ✅ 2024-03-15
@@ -44,13 +45,13 @@ Build out a quick and dirty pilot and start creating things again. Test it in on
 - [x] Create test attempt on modal close ✅ 2024-03-28
 - [x] Build endpoint to test explanation for each question ✅ 2024-03-29
 - [x] Handle various question states ✅ 2024-03-29
-- [ ] Get a UI check from Abu or Dipaq
+- [x] Back and forward bug ✅ 2024-03-31
 - [ ] Fix text overflow in question explanation
 - [ ] Clean up styles across the application
 - [ ] Handle submit test and show modal with final score
-- [ ] Set up Microsoft Clarity
-- [ ] Set up analytics and tracking events
-- [x] Back and forward bug ✅ 2024-03-28
+- [ ] Make the instructions clearer
+- [ ] Create OpenAI assistants for each test case
+- [ ] Connect web application with OpenAI assistants
 
 ### Future Features
 - Set time limits on tests
@@ -60,4 +61,5 @@ Build out a quick and dirty pilot and start creating things again. Test it in on
 - Investigate SSG for the pages
 - Prevent browser actions once test has started
 - Build data streaming capability so we don't run into timeout issues
+- Analytics and Tracking
 
