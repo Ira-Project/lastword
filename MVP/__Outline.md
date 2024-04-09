@@ -25,8 +25,6 @@ Build out a quick and dirty pilot and start creating things again. Test it in on
 - [x] Fine tune GPT 3.5 and experiment with it ✅ 2024-03-21
 - [x] Create a test repository ✅ 2024-04-04
 - [x] Set up all test cases ✅ 2024-04-04
-- [ ] Create Chemistry tests
-- [ ] Create Physics tests
 
 ### Web App Actions
 - [x] Set up the T3 project ✅ 2024-03-15
@@ -49,8 +47,8 @@ Build out a quick and dirty pilot and start creating things again. Test it in on
 - [x] Connect web application with OpenAI assistants ✅ 2024-04-05
 - [x] Fix text overflow in question explanation ✅ 2024-04-05
 - [x] Clean up styles across the application ✅ 2024-04-05
-- [ ] Handle submit test and show modal with final score
-- [ ] Make the instructions clearer
+- [x] Handle submit test show results somehow ✅ 2024-04-09
+- [x] Make the instructions clearer ✅ 2024-04-09
 - [ ] Create OpenAI assistants for each test case
 
 ### Future Features
