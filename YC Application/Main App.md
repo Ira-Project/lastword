@@ -106,7 +106,7 @@
 
 24. If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application.
 
-	asdfasdf
+	
 
 22. What convinced you to apply to Y Combinator? Did someone encourage you to apply? Have you been to any YC events?
 
