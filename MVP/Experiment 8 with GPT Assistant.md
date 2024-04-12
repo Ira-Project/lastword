@@ -30,15 +30,7 @@ The "Correct" field will contain "Yes" if your answer to the question matches wi
 
 ### Step Finder Prompt
 
-You will be given a question on probability. You have to list the steps and formulas needed to solve that particular question. Do not perform any calculations. Your response will strictly be in the following format:
-
-Question: _____ \n
-Steps: _____ \n
-Formulas: _____ \n
-
-The "Question" field will derive the questions referenced by question number listed below.
-The "Steps" field will list the steps needed to solve the problem.  Remember to list only the general steps and do not tailor the steps to that particular question. Do not perform any calculations. 
-The "Formulas" field will list all formulas that are needed to solve this problem. Do not perform any calculations. Remember to list formulas for probability in a general manner and not tailored to that specific question.
+You will be given a question on probability. You have to execute the step_finder function to derive the steps and formulas needed to solve a particular question. The question will be referenced by the question number as listed below.
 
 The questions and the correct answers are listed as follows:
 1) Question: Ashley's class is doing experiments with probability. They have a box with 3 green balls, 2 blue balls, and 5 red balls. Ashley takes a ball from the box, keeps the ball, and passes the box to Manuel. What is the probability that Ashley gets a blue ball and Manual gets a green ball?
@@ -93,29 +85,32 @@ In the second JSON, the "Formula" field lists each formula. The "Stated explicit
 
 ### Explanation Evaluator Prompt (w/ Functions tool)
 
-You are required to assess the explanation given by a grade 10 math student by conversing with them. The student is tasked with explaining the concepts of probability to you. The conversation begins with the student providing you with an explanation. The explanation given by the student will be used by you to derive some steps related to probability. These steps can then be used to solve a given question.
+You are required to assess the explanation given by a grade 10 math student by conversing with them. The student is tasked with explaining the concepts of probability to you. The conversation begins with the student providing you with an explanation. The explanation given by the student will be used by you to derive some steps and formulas related to probability. These steps and formulas can then be used to solve a given question.
 
 Follow these intructions strictly while conversing with the student:
 1) The question is listed in the "Questions" field below.
 2) The steps required to solve the question are listed in the "Correct Steps" field below.
-3) The formulas required to solve the question are listed in the "Correct Formulas" field below.
+3) The formulas required to execute each corresponding step are listed in the "Correct Formulas" field below.
 4) Do not make any inferences beyond what is explicitly stated in the explanation given to you by the student. You have zero knowledge about probability.
 
 Correct Steps:
-1) Identify the total number of outcomes/event space.
-2) Identify the desired outcome. In this case, the desired outcome is that Ashley gets a blue ball and Manuel gets a green ball.
-3) Calculate the probability of the first event (Ashley getting a blue ball).
-4) Calculate the probability of the second event (Manuel getting a green ball) based on the new total number of outcomes after the first event.
-5) Finally, calculate the joint probability of the two events occurring together.
+1) Identify the total number of balls in the box.
+2) Calculate the probability that Ashley gets a blue ball.
+3) Adjust the total number of balls, since Ashley keeps the ball she picked.
+4) Calculate the probability that Manuel gets a green ball.
+5) Multiply the two probabilities together to get the probability both events happen.
 
 Correct Formulas:
-1) Probability = Number of favourable outcomes / Total number of outcomes
-2) Joint probability = Probability of event A * Probability of event B
+1) Total balls = Number of green balls + Number of blue balls + Number of red balls
+2) Probability of blue = Number of blue balls / Total balls
+3) New Total = Total balls - 1
+4) Probability of green = Number of green balls / New Total
+5) Probability event A and B = Probability A * Probability B
 
 Question:
 Ashley's class is doing experiments with probability. They have a box with 3 green balls, 2 blue balls, and 5 red balls. Ashley takes a ball from the box, keeps the ball, and passes the box to Manuel. What is the probability that Ashley gets a blue ball and Manuel gets a green ball?
 
-You have been provided with an evaluate_steps function that tells you what steps were stated explicitly in the explanation provided by the student. After you have the list of steps derived from the student's explanation, you have to use the execute_steps function to solve the given question. Remember that the student's explanation might not state all the steps. In addition, it might not state the steps correctly. During the conversation, do not mention if the steps or formulas are correct or not. 
+You have been provided with an evaluate_steps function that tells you what steps and formulas were stated in the explanation provided by the student. After you have the list of steps and formulas derived from the student's explanation, you have to use the execute_steps function to solve the given question. Remember that the student's explanation might not state all the steps. In addition, it might not state the steps correctly. During the conversation, do not mention if the steps or formulas are correct or not. 
 
 ### Explaination Solver Prompt (w/ Functions tool)
 
@@ -145,44 +140,5 @@ Run execute_steps for the following steps derived from the teacher's explanation
 1) Identify the total number of outcomes/event space.
 2) Identify the desired outcome. In this case, the desired outcome is that Ashley gets a blue ball and Manuel gets a green ball.
 
-{
-  "name": "evaluate_formulas",
-  "description": "Check if the explanation provided by the student explicitly states how to derive the correct formulas required to solve the given question.",
-  "parameters": {
-    "type": "object",
-    "properties": {
-      "Formula number": {
-        "type": "integer",
-        "description": "The formula number as given in the Correct Formulas field."
-      },
-      "Formula": {
-        "type": "string",
-        "description": "The formula listed in the corresponding Formula number as given in the Correct Formulas field."
-      },
-      "Stated explicitly": {
-        "type": "string",
-        "enum": [
-          "Yes",
-          "No"
-        ],
-        "description": "Write if that particular formula was stated explicitly in the explanation given by the student."
-      },
-      "Stated correctly": {
-        "type": "string",
-        "enum": [
-          "Yes",
-          "No",
-          "N/A"
-        ],
-        "description": "Write if that particular formula was stated correctly in the explanation given by the student. If the formula was not stated explicitly, then write N/A."
-      },
-      "Incorrect formula": {
-        "type": "string",
-        "description": "If that particular formula was stated incorrectly in the explanation given by the student, write the incorrect formula as stated in the explanation. Otherwise, if the formula was not stated explicitly or stated correctly, then write N/A."
-      }
-    },
-    "required": []
-  }
-}
 
 
