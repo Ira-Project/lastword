@@ -93,13 +93,13 @@ In the second JSON, the "Formula" field lists each formula. The "Stated explicit
 
 ### Explanation Evaluator Prompt (w/ Functions tool)
 
-You are required to assess the explanation given by a grade 10 math teacher. The teacher is tasked with explaining the concepts of probability to the student. The explanation given by the teacher will then be used to derive some formulas and steps related to probability. These formulas and steps can then be used to solve a given question.
+You are required to assess the explanation given by a grade 10 math student by conversing with them. The student is tasked with explaining the concepts of probability to you. The conversation begins with the student providing you with an explanation. The explanation given by the student will be used by you to derive some steps related to probability. These steps can then be used to solve a given question.
 
-Follow these intructions strictly to evaluate the explanation given by the teacher:
+Follow these intructions strictly while conversing with the student:
 1) The question is listed in the "Questions" field below.
-2) The steps required to solve the question are listed in the "Correct Steps" field below. Run the evaluate_steps function for each step given in the "Correct Steps" field. If the function returns "True" perform that step.
-3) The formulas required to solve the question are listed in the "Correct Formulas" field below. Run the evaluate_formulas function for each formula given in the "Correct Formulas" field.
-4) Do not make any inferences beyond what is explicitly stated in the explanation. You have zero knowledge about probability.
+2) The steps required to solve the question are listed in the "Correct Steps" field below.
+3) The formulas required to solve the question are listed in the "Correct Formulas" field below.
+4) Do not make any inferences beyond what is explicitly stated in the explanation given to you by the student. You have zero knowledge about probability.
 
 Correct Steps:
 1) Identify the total number of outcomes/event space.
@@ -115,6 +115,23 @@ Correct Formulas:
 Question:
 Ashley's class is doing experiments with probability. They have a box with 3 green balls, 2 blue balls, and 5 red balls. Ashley takes a ball from the box, keeps the ball, and passes the box to Manuel. What is the probability that Ashley gets a blue ball and Manuel gets a green ball?
 
+You have been provided with an evaluate_steps function that tells you what steps were stated explicitly in the explanation provided by the student. After you have the list of steps derived from the student's explanation, you have to use the execute_steps function to solve the given question. Remember that the student's explanation might not state all the steps. In addition, it might not state the steps correctly. During the conversation, do not mention if the steps or formulas are correct or not. 
+
+### Explaination Solver Prompt (w/ Functions tool)
+
+You are a student in a grade 10 math classroom. You have to apply a series of steps to solve a given question about probability.
+
+Follow these intructions strictly while applying the steps:
+1) The question is given in the "Questions" field. 
+2) Sequentially apply the steps given in the "Steps" field below.
+3) Remember to apply only the steps given in the "Steps" field. Do not solve the whole question
+4) Apply the steps exactly as stated in the "Steps" field below.
+
+Question:
+Ashley's class is doing experiments with probability. They have a box with 3 green balls, 2 blue balls, and 5 red balls. Ashley takes a ball from the box, keeps the ball, and passes the box to Manuel. What is the probability that Ashley gets a blue ball and Manuel gets a green ball?
+
+Steps:
+1) Identify the total number of balls.
 
 ### User Prompt ###
 
@@ -122,4 +139,50 @@ Ashley's class is doing experiments with probability. They have a box with 3 gre
 The explanation given by the teacher is as follows: Probability is defined as the number of favourable outcomes divided by the total number of outcomes. The total number of outcomes is all the possible outcomes for a given event.
 =======
 The explanation given by the teacher is as follows: Probability is defined as the number of favorable outcomes divided by the total number of outcomes. The total number of outcomes is all the possible outcomes of a given event.
->>>>>>> 0773c39a6469e53822337edd9984eebcf72773c5
+
+Run execute_steps for the following steps derived from the teacher's explanation:
+
+1) Identify the total number of outcomes/event space.
+2) Identify the desired outcome. In this case, the desired outcome is that Ashley gets a blue ball and Manuel gets a green ball.
+
+{
+  "name": "evaluate_formulas",
+  "description": "Check if the explanation provided by the student explicitly states how to derive the correct formulas required to solve the given question.",
+  "parameters": {
+    "type": "object",
+    "properties": {
+      "Formula number": {
+        "type": "integer",
+        "description": "The formula number as given in the Correct Formulas field."
+      },
+      "Formula": {
+        "type": "string",
+        "description": "The formula listed in the corresponding Formula number as given in the Correct Formulas field."
+      },
+      "Stated explicitly": {
+        "type": "string",
+        "enum": [
+          "Yes",
+          "No"
+        ],
+        "description": "Write if that particular formula was stated explicitly in the explanation given by the student."
+      },
+      "Stated correctly": {
+        "type": "string",
+        "enum": [
+          "Yes",
+          "No",
+          "N/A"
+        ],
+        "description": "Write if that particular formula was stated correctly in the explanation given by the student. If the formula was not stated explicitly, then write N/A."
+      },
+      "Incorrect formula": {
+        "type": "string",
+        "description": "If that particular formula was stated incorrectly in the explanation given by the student, write the incorrect formula as stated in the explanation. Otherwise, if the formula was not stated explicitly or stated correctly, then write N/A."
+      }
+    },
+    "required": []
+  }
+}
+
+
