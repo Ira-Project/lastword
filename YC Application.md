@@ -58,9 +58,9 @@
 	(Vignesh has applied to YC with a different idea while this is Likhit's first application.)
 	I applied with a few different products but for the first time decided to solve a problem that I myself experience in my work with children and something that I had more conviction in. 
 	
-	Previously I was building an no code data science tool with a different co-founder. One of the biggest mistakes we made in the previous product was that we had very 'low quality reps'. Without enough conviction in the idea we had, we pivoted without learning much when leads from LinkedIn didn't materialise
+	Previously I was building an no code data science tool with a different co-founder. One of the biggest mistakes we made in the previous product was that we had very 'low quality reps'. Without enough conviction in the idea we had, we pivoted without learning much when leads from LinkedIn didn't materialise.
 	
-	The other learning was learning about the ineffectiveness of working in silos. One of us doing sales and one of us did the coding which meant that neither of us saw the whole picture clearly. 
+	The other learning was learning about the ineffectiveness of working in silos. One of us was doing sales and talking to users and one of us did the coding which meant that neither of us saw the whole picture clearly. 
 
 16. If you have already participated or committed to participate in an incubator, "accelerator" or "pre-accelerator" program, please tell us about it.
 
