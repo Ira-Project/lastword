@@ -53,9 +53,14 @@
 
 	Currently we've made a NextJS web application deployed on Vercel. The AI is currently running through creative prompts to GPT-4 assistants. In the future we plan to fine tune an open source model or train our own LLM. 
 
-15. If you are applying with the same idea as a previous batch, did anything change? If you applied with a different idea, why did you pivot and what did you learn from the last idea?
+15. Are people using your product? When will you have a version people can use?
+
+	No. A basic version of the product is ready to use. We are using the product ourselves and testing to see if it solves our own problems. 
+
+17. If you are applying with the same idea as a previous batch, did anything change? If you applied with a different idea, why did you pivot and what did you learn from the last idea?
 
 	(Vignesh has applied to YC with a different idea while this is Likhit's first application.)
+	
 	I applied with a few different products but for the first time decided to solve a problem that I myself experience in my work with children and something that I had more conviction in. 
 	
 	Previously I was building an no code data science tool with a different co-founder. One of the biggest mistakes we made in the previous product was that we had very 'low quality reps'. Without enough conviction in the idea we had, we pivoted without learning much when leads from LinkedIn didn't materialise.
@@ -68,13 +73,13 @@
 
 17. Why did you pick this idea to work on? Do you have domain expertise in this area? How do you know people need what you're making?
 
-	 The Ira Project was born out of our own needs while working in education. Vignesh runs a non profit which creates after school learning spaces for marginalised children. Likhit has taught multiple courses at Georgia Tech and is involved in the running and administration of his school in Bhubaneswar, India. 
+	The Ira Project was born out of our own needs while working in education. Vignesh runs a non profit which creates after school learning spaces for marginalised children. Likhit has taught multiple courses at Georgia Tech and is involved in the running and administration of his school in Bhubaneswar, India. 
 	 
-	 In our work one thing that both of us struggled with was gauging how well a student understood something. The traditional tests and assignments simply did not reveal the gaps in conceptual understanding. Often we would have to give personalised attention and we found that asking a learner to explain a concept back to us was quite revealing. 
+	In our work one thing that both of us struggled with was gauging how well a student understood something. The traditional tests and assignments simply did not reveal the gaps in conceptual understanding. Often we would have to give personalised attention and we found that asking a learner to explain a concept back to us was quite revealing. 
 
 18. Who are your competitors? What do you understand about your business that they don't?
 
-	FlintK12, Khan Academy, Brilliant. 
+	FlintK12, Khan Academy, Kahoot
 	There are three areas where we differ from the competition and where we feel our understanding is different
 	1. Learning through creation not consumption. Most of the products today have users consuming content to learn. By allowing users to teach an AI model we're allowing them to create something and a different learning experience. 
 	2. Known Unknowns vs Unknown Knowns. Products today largely focus on helping users learn an unknown they don't know about. Our product relies on metacognition and helps users discover what they know and how they know something. 
@@ -82,7 +87,7 @@
 
 19. How do or will you make money? How much could you make?
 
-	 Currently we're thinking of a freemium model. Our current thought process is to provide a free tier for students to use so we can acquire more data. For school we plan to charge them to administer and access tests/assignments for their students. 
+	Currently we're thinking of a freemium model. Our current thought process is to provide a free tier for students to use so we can acquire more data. For school we plan to charge them to administer and access tests/assignments for their students. 
 
 20. How do users find your product? How did you get the users you have now? If you run paid ads, what is your cost of acquisition?
 
@@ -90,7 +95,16 @@
 	
 	To be perfectly honest, we don't have a coherent acquisition strategy yet. In Vignesh's previous companies he found some success with personal outreach and then organic growth so we would rely on similar strategies though it must be said that they were in a very different domain.
 
-21. If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application.
+23. Where will most of your initial users be located?
+
+	United States
+
+25. If you have not formed the company yet, describe the planned equity ownership breakdown among the founders, employees and any other proposed stockholders. If there are multiple founders, be sure to give the proposed equity ownership of each founder and founder title (e.g. CEO). (This question is as much for you as us.)
+
+	Vignesh Prasad, Chief Executive Officer - 50%
+	Likhit Nayak, Chief Technology - 50%
+
+24. If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application.
 
 	asdfasdf
 
@@ -101,3 +115,4 @@
 24.  How did you hear about Y Combinator?
 
 	 We heard about YC from our friends back in college. 
+
