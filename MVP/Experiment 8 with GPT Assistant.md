@@ -94,18 +94,14 @@ Follow these intructions strictly while conversing with the student:
 4) Do not make any inferences beyond what is explicitly stated in the explanation given to you by the student. You have zero knowledge about probability.
 
 Correct Steps:
-1) Identify the total number of balls in the box.
-2) Calculate the probability that Ashley gets a blue ball.
-3) Adjust the total number of balls, since Ashley keeps the ball she picked.
-4) Calculate the probability that Manuel gets a green ball.
-5) Multiply the two probabilities together to get the probability both events happen.
+1) Identify the probability of Ashley drawing a blue ball from the initial set of balls
+2) Identify the probability of Manuel drawing a green ball after Ashley has taken a blue ball
+3) Calculate the combined probability of both events happening in sequence.
 
 Correct Formulas:
-1) Total balls = Number of green balls + Number of blue balls + Number of red balls
-2) Probability of blue = Number of blue balls / Total balls
-3) New Total = Total balls - 1
-4) Probability of green = Number of green balls / New Total
-5) Probability event A and B = Probability A * Probability B
+1) P(A) = number of favorable outcomes for A / total outcomes
+2) P(B given A) = number of favorable outcomes for B after A has occurred / total possible outcomes after A
+3) P(A then B) = P(A) * P(B given A)
 
 Question:
 Ashley's class is doing experiments with probability. They have a box with 3 green balls, 2 blue balls, and 5 red balls. Ashley takes a ball from the box, keeps the ball, and passes the box to Manuel. What is the probability that Ashley gets a blue ball and Manuel gets a green ball?
@@ -133,12 +129,33 @@ Steps:
 <<<<<<< HEAD
 The explanation given by the teacher is as follows: Probability is defined as the number of favourable outcomes divided by the total number of outcomes. The total number of outcomes is all the possible outcomes for a given event.
 =======
-The explanation given by the teacher is as follows: Probability is defined as the number of favorable outcomes divided by the total number of outcomes. The total number of outcomes is all the possible outcomes of a given event.
+Run the evaluate_steps function for the following explanation: Probability is defined as the sum of favourable outcomes. Favourable outcomes are the events we want to happen and total outcomes are all the possible things that can happen. For multiple events the probability is computed as the product of each event.
 
 Run execute_steps for the following steps derived from the teacher's explanation:
 
 1) Identify the total number of outcomes/event space.
 2) Identify the desired outcome. In this case, the desired outcome is that Ashley gets a blue ball and Manuel gets a green ball.
 
-
+{
+  "name": "execute_steps",
+  "description": "This function sequentially executes all the steps and formulas derived from the student's explanation.",
+  "parameters": {
+    "type": "object",
+    "properties": {
+      "answer": {
+        "type": "number",
+        "description": "Write the answer obtained after executing all the steps stated explicitly in the student's explanation. If the steps are not enough to solve the question, write None"
+      },
+      "working": {
+        "type": "string",
+        "description": "Describe, in first person, the steps derived from the student's explanation. Also describe how you executed these steps to arrive at the answer. If the provided explanation was not sufficient to solve the question, write that you do not know how to proceed further. Do not mention if the steps executed were correct or not. Remember that this description should strictly be in first person."
+      },
+      "is_correct": {
+        "type": "boolean",
+        "description": "If the answer obtained in the answer field is equal to 1/15, write boolean value true otherwise write boolean value false"
+      }
+    },
+    "required": []
+  }
+}
 
