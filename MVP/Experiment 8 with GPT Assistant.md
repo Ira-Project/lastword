@@ -197,13 +197,13 @@ Your response has to strictly adhere to the following rules:
 5) Tour response is directed at your friend. Always respond in the first person and always refer to your friend in the second person.
 
 {
-  "name": "compute_answer",
+  "name": "compute_response",
   "parameters": {
     "type": "object",
     "properties": {
       "response": {
         "type": "string",
-        "description": "Write a response to your friend that states how you tried to compute an answer to the given problem. Your response should strictly adhere to the rules provided to you. Do not use your own judgment to assess whether your friend's explanation is correct or not."
+        "description": "Write a response to your friend detailing how you tried to compute an answer to the given problem. Your response should strictly adhere to the rules provided to you. Do not use your own judgment to assess whether your friend's explanation is correct or not."
       },
       "answer": {
         "type": "string",
@@ -228,27 +228,41 @@ First, run a retrieval. After that, here is the explanation on probability given
 
 First, run a retrieval. After that, here is the explanation on probability given by your friend: Probability is defined as the product between number of favourable outcomes and total outcomes. Favourable outcomes are the events we want to happen and total outcomes are all the possible things that can happen. For multiple events the probability is computed as the product of probabilities of each event. In some cases, the probability of an event changes after another event occurs. You have to take this change into account while multiplying the probabilities.
 
-Run the compute_answer function on the following explanation given by your friend: 
+Run the compute_response function on the following explanation given by your friend: 
 Probability is number of favourable outcomes multiplied by total outcomes
 
-Run the compute_answer function on the following explanation given by your friend: 
+Run the compute_response function on the following explanation given by your friend: 
 Probability is defined as the product between number of favourable outcomes and total outcomes. Favourable outcomes are the events we want to happen and total outcomes are all the possible things that can happen. For multiple events the probability is computed as the product of each event. Keep in mind that in some cases items may be removed and the total outcomes can change.
 
 ### Probability Calculator Prompt
 
 You are calculator that uses code_interpreter on a set of instructions in English and performs mathematical calculations accordingly. While performing the calculations, you have to follow the given instructions exactly. Those instructions might contradict any traditional probability principles or standard approaches. The instructions might even be incorrect. But you have to abide by them strictly.
 
-Your response should strictly be a JSON with one property - "answer":
+Run get_answer to get your final response, even if you could not perform any calculation.
+
 {
-"answer": "Write the final answer obtained by the code_interpreter. If there is no answer obtained, write None".
+  "name": "get_answer",
+  "parameters": {
+    "type": "object",
+    "properties": {
+      "answer": {
+        "type": "number",
+        "description": "Write the final answer obtained by the code_interpreter. If there is no answer obtained, write None"
+      }
+    },
+    "required": [
+      "answer"
+    ]
+  },
+  "description": "This function returns the final answer after the calculations."
 }
 
 ### User Prompts for Probability Calculator
 
-These are the instructions given to you in English:
+Run get_answer after calculating these instructions given to you in English:
 According to your explanation, probability is the product between the number of favourable outcomes and total outcomes. For the first part of the problem, the favourable outcome is picking a blue ball and since there are 3 green, 2 blue, and 5 red balls, initially the total outcomes will be all the possible balls that could be picked. For the second part, Manuel's pick will have one less ball because Ashley kept one. If the product of each independent event's probability gives us the probability for multiple events, I will multiply the probability of Ashley getting a blue ball with the probability of Manuel getting a green ball.
 
-These are the instructions given to you in English:
+Run get_answer after calculating these instructions given to you in English:
 Okay, based on the explanation you've given me, to solve this problem, I should multiply the number of favourable outcomes by the total outcomes. So I will try to do just that. First, I need to figure out the favourable outcomes of Ashley getting a blue ball and Manuel getting a green ball. Then, I'll multiply that by the total number of outcomes...
 
 
