@@ -49,7 +49,7 @@ Build out a quick and dirty pilot and start creating things again. Test it in on
 - [x] Clean up styles across the application ✅ 2024-04-05
 - [x] Handle submit test show results somehow ✅ 2024-04-09
 - [x] Make the instructions clearer ✅ 2024-04-09
-- [ ] Create OpenAI assistants for each test case
+- [x] Create OpenAI assistants for each test case ✅ 2024-04-17
 
 ### Future Features
 - Set time limits on tests
