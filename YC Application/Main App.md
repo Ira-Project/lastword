@@ -49,7 +49,7 @@
 
 17. What tech stack are you using, or planning to use, to build this product?
 
-	We've made a NextJS web application deployed on Vercel. Currently, the AI works through prompt engineering using GPT-4 assistants. We have started creating a dataset to train our own LLM. 
+	We've made a NextJS web application deployed on Vercel. Currently, the AI works through prompt engineering using GPT-4 assistants. We have started creating a dataset to fine tune an open-source LLM. 
 
 18. Are people using your product? When will you have a version people can use?
 
@@ -99,7 +99,7 @@
 
 27. If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application. - TODO
 
-	
+	Blood pressure measurements can be key indicators for a variety of medical conditions. The point-of-care tools for these measurements work only on superificial sites like the wrist or the thigh. By using PINNs (physics-informed neural networks), we can develop models that use the measurements from a set of superficial sites and predict pressure and flow at interior locations like the heart or the uterine artery. These models can then serve as early risk indicators for different conditions like preeclampsia.
 
 22. What convinced you to apply to Y Combinator? Did someone encourage you to apply? Have you been to any YC events?
 
