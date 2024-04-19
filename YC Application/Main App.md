@@ -6,7 +6,7 @@
 
 	The code and technical work for the product is done by both of the co-founders. Vignesh handles the web application while Likhit is responsible for the AI models.
 
-4. Please record a one minute video introducing the founder(s)
+4. Please record a one minute video introducing the founder(s) - TODO
 
 5. Company name
 
@@ -20,7 +20,7 @@
 
 	https://github.com/Ira-Project
 
-8. If you have a demo, attach it below.
+8. If you have a demo, attach it below - TODO
 
 
 9. Please provide a link to the product, if relevant.
