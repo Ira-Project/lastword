@@ -19,7 +19,7 @@ Demo a reasonably functioning MVP to learners. Understand how they're using the 
 - What can I read or listen to for relevant ideas? YC has a lot of good resources on this. It's worth revisiting those videos. 
 
 ### Actions
-- [ ] Prepare a script for the user interview with learners and facilitators
+- [x] Prepare a script for the user interview with learners and facilitators ✅ 2024-04-19
 - [ ] Identify five learners to test the application with
 - [ ] Demo and test the application with the learners
 - [ ] Identify five teachers to get feedback from 
