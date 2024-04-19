@@ -1,6 +1,6 @@
 1. What is your title, or if you haven’t set it yet, main responsibility?* (Required)
 
-CTO
+	CTO
 
 2. What percent equity do you have?* (Required)
 
