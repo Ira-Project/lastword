@@ -31,12 +31,9 @@
 
 	bushwhack-one.vercel.app/
 
-9. What is your company going to make? Please describe your product and what it does or will do? - TODO
+9. What is your company going to make? Please describe your product and what it does or will do?
 
-	
-
-
-	We are building an AI study buddy that students can teach concepts to. Rather than solving questions, students explain the concepts required to solve them. The AI then uses the student's explanations to attempt these questions. By iteratively teaching the AI to solve the questions correctly, the student is able to identify the gaps in their understanding.
+	We are building an AI study buddy that students can teach concepts to. Instead of answering questions, students have to explain to our AI how to solve them. Using the knowledge from the explanation given by the student, our AI attempts to solve a set of questions. The students iterate on their explanation till our AI is able to solve all the questions correctly. 
 
 10. Where do you live now, and where would the company be based after YC?
 
@@ -46,7 +43,7 @@
 
 	 The founders are currently based out of different locations. Vignesh lives in Bangalore, India while Likhit is completing his PhD at Georgia Tech. We are hoping to build this product in San Francisco so we can be close to the cutting edge in AI. 
 
-12. How far along are you? - TODO
+12. How far along are you?
 
 	We have built out a basic MVP and begun user testing. We have so far tested it with five of our students. While using the product, the students had to exercise metacognition and it revealed quite clearly gaps in their understanding. We have also interviewed five teachers and have got a buy in from three of them to use it in their classrooms next year. 
 
