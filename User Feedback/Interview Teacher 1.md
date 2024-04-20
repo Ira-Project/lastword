@@ -1,0 +1,30 @@
+---
+Date Created: 2024-04-20
+---
+- Relate it to real world problems. Interesting examples that a lay person would be able to understand. 
+- Interest in the student's mind
+- Real application of the topic that we're teaching
+- Few questions from my own - quite related to the applications
+	- Relation and function example - brother relation is symmetric or not? real world example
+	- Mathematics in engineering is totally fine since there are real world applications
+- Teachers don't often relate to real world particularly in the high school
+- 100 mark paper - paper and pen test
+	- 15 marks for teacher assessment
+	- Quiz test - 5 marks
+	- Assignments - 5 marks
+	- Surprise Test - 5 marks
+- Students don't like reading books. Library footfalls are very low. They prefer YouTube. 
+	- They learn superficially through YouTube. Answers for the questions are provided and are often incorrect in YouTube.
+- In the answer script it gets revealed because they write the wrong answer that they learned from YouTube itself. 
+- 5 modules in a paper
+	- 2 modules one test
+	- 2 modules another test
+- Frustrations are definitely present. Lot of indiscipline in the classroom. 
+- Tried a viva once
+	- Project related questions. Bigger problem and look through the thought process.
+	- Most students do plugging of formula and try to just answer the questions
+	- Students are not interested in the viva at all. They just want to answer the basic questions
+- Used smart board in the classrooms. M Tech students. 
+- Quiz test is conducted online. MCQ. ES Examination.
+- Students like changes and want to adopt new things
+- It's a common feeling that evaluation and invigilation is annoying but it really should not be the case. These are parts of the job. 
