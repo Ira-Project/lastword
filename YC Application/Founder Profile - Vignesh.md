@@ -24,7 +24,6 @@
 
 	I started a non profit about six years ago to experiment with creating child centric learning spaces where decisions are made by the children. What started with one space has now grown to six spaces and three hundred children. 
 
-
 6. Tell us about things you’ve built before. For example apps you’ve built, websites, open source contributions. Include URLs if possible.
 
 	Throughout my career I've been building web applications. Outside of the startups listed in my experience I've built a few other applications as well :-
