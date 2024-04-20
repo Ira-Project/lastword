@@ -6,9 +6,9 @@
 
 	The code and technical work for the product is done by both of the co-founders. Vignesh handles the web application while Likhit is responsible for the AI models.
 
-3. Please record a one minute video introducing the founder(s) - TO DO
+3. Please record a one minute video introducing the founder(s) 
 
-	
+	https://drive.google.com/file/d/16Nc_EVeUs45-ClvlENHJZ4CZQ5LEutBl/view
 
 4. Company name
 
@@ -24,7 +24,7 @@
 
 7. If you have a demo, attach it below
 
-	https://drive.google.com/file/d/1z1Ii3Tw_d_QTFEKX9IypjnnW1VLvIFtg/view?usp=sharing
+	https://drive.google.com/file/d/1z1Ii3Tw_d_QTFEKX9IypjnnW1VLvIFtg/view
 
 
 8. Please provide a link to the product, if relevant.
@@ -33,11 +33,14 @@
 
 9. What is your company going to make? Please describe your product and what it does or will do? - TODO
 
+	
+
+
 	We are building an AI study buddy that students can teach concepts to. Rather than solving questions, students explain the concepts required to solve them. The AI then uses the student's explanations to attempt these questions. By iteratively teaching the AI to solve the questions correctly, the student is able to identify the gaps in their understanding.
 
 10. Where do you live now, and where would the company be based after YC?
 
-	San Francisco, USA
+	Bangalore, India / San Francisco, USA
 
 11. Explain your decision regarding location.
 
@@ -45,7 +48,7 @@
 
 12. How far along are you? - TODO
 
-	We have built out a basic MVP and begun user testing. We have so far tested it with __ of our students. While using the product, the students had to exercise metacognition and it revealed quite clearly gaps in their understanding. We have also interviewed __ teachers and have got a buy in from __ of them to use it in their classrooms next year. 
+	We have built out a basic MVP and begun user testing. We have so far tested it with five of our students. While using the product, the students had to exercise metacognition and it revealed quite clearly gaps in their understanding. We have also interviewed five teachers and have got a buy in from three of them to use it in their classrooms next year. 
 
 13. How long have each of you been working on this? How much of that has been full-time? Please explain.
 
@@ -53,11 +56,11 @@
 
 14. What tech stack are you using, or planning to use, to build this product?
 
-	We've made a NextJS web application deployed on Vercel. Currently, the AI works through prompt engineering using GPT-4 assistants. We have started creating a dataset to fine tune an open-source LLM. 
+	We're using NextJS deployed on Vercel for our web application. Currently, the AI works through prompt engineering using GPT-4 assistants. We have started creating a dataset to fine tune an open-source LLM. 
 
 15. Are people using your product? When will you have a version people can use?
 
-	No. We haven't publicly launched yet, we are still iterating over our intial MVP with user testing. We are planning to release a version for customers in a month. 
+	No. We haven't publicly launched yet, we are still iterating over our initial MVP with user testing. We are planning to release a classroom ready version for customers in a month. 
 
 16. If you are applying with the same idea as a previous batch, did anything change? If you applied with a different idea, why did you pivot and what did you learn from the last idea? - TODO
 
@@ -103,7 +106,7 @@
 
 24. If you had any other ideas you considered applying with, please list them. One may be something we've been waiting for. Often when we fund people it's to do something they list here and not in the main application. - TODO
 
-	Blood pressure measurements can be key indicators for a variety of medical conditions. The point-of-care tools for these measurements work only on superificial sites like the wrist or the thigh. By using PINNs (physics-informed neural networks), we can develop models that use the measurements from a set of superficial sites and predict pressure and flow at interior locations like the heart or the uterine artery. These models can then serve as early risk indicators for different conditions like preeclampsia.
+	Blood pressure measurements can be key indicators for a variety of medical conditions. The point-of-care tools for these measurements work only on superficial sites like the wrist or the thigh. By using PINNs (physics-informed neural networks), we can develop models that use the measurements from a set of superficial sites and predict pressure and flow at interior locations like the heart or the uterine artery. These models can then serve as early risk indicators for different conditions like preeclampsia.
 
 25. What convinced you to apply to Y Combinator? Did someone encourage you to apply? Have you been to any YC events?
 
