@@ -12,6 +12,7 @@
 
 4. Please tell us about a time you most successfully hacked some (non-computer) system to your advantage.
 	 
+I travel frequenctly between USA and India and it's always a challenge to find flight tickets at a reasonable price. My hometown Bhubaneswar is a tier 2 city that doesn't have any direct international flights. So when flying home, I have to book my international ticket to a tier 1 city like New Delhi or Bombay and then book a separate domestic flight from that city to Bhubaneswar. For international flights, the itineraries with multiple hops within India usually work out to be cheaper but have longer connections. The rule in India is that all passengers travelling internationally have to mandatorily collect their luggages at the port of entry. So when booking my international tickets, I select the cheapest option with multiple hops within India. Once I land at the port of entry, I collect my baggage and check it in for my domestic flight to my hometown, thus skipping all the hops. The rule around collecting luggages at the port of entry allows me to optimize for the both the cost of the ticket and the overall travel time.
 
 5. Please tell us in one or two sentences about the most impressive thing other than this startup that you have built or achieved.
 
