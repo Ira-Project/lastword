@@ -27,7 +27,7 @@
 6. Tell us about things you’ve built before. For example apps you’ve built, websites, open source contributions. Include URLs if possible.
 
 	Throughout my career I've been building web applications. Outside of the startups listed in my experience I've built a few other applications as well :-
-	- An election management application. I built a simple classification model and a Svelte Kit application for an acquaintance to help them with election strategy. The application classified users based on how likely they were to vote for the candidate and allowed the candidate to plan their campaign accordingly. 
+	- An election management application. I built a simple classification model and a Svelte Kit application for a contestant in the Karnataka state election to help them with election strategy. The application classified users based on how likely they were to vote for the candidate and allowed the candidate to plan their campaign accordingly. 
 	- Meet Strangers Application. I built and ran a web application where users could sign up and enjoy tea with strangers. 
 
 7. List any competitions/awards you have won, or papers you’ve published
