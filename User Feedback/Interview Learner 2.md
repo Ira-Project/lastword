@@ -1,13 +1,7 @@
 ---
 Date Created: 2024-04-19
 ---
-Participants: Vignesh
-
-Pre Demo
-
-
-----
-Post Demo
+Demo
 - UI wasn't clear at all. It was extremely unclear where to type at all. The user was confused and given they weren't very comfortable with technology in general felt like they were the ones making some sort of mistake.
 - User decided to write the answer first. The app gave feedback that her answer was wrong and then later that it was correct which left her quite confused. 
 - The user then realised that they had to provide an explanation and attempted that. They initially tried an explanation that worked for a single question and was very confused what to do when navigating to a different question. 

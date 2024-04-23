@@ -1,11 +1,7 @@
 ---
 Date Created: 2024-04-17
 ---
-Pre Demo
-
-
-----
-Post Demo
+Demo
 - UI was very unclear. He didn't read through the instructions at the start. Once he started the test he tried to highlight the blank in the question.
 - He reverted immediately to pen and paper to try and solve the question. Perhaps he felt intimidated that he didn't immediately know the answer. 
 - The compute button below was hidden by scroll so that's something we need to make sure to fix.
