@@ -48,7 +48,7 @@
 
 13. How long have each of you been working on this? How much of that has been full-time? Please explain.
 
-	Vignesh has been working on the product full time for the last four weeks. Likhit has been working part time while wrapping up the final stages of his PhD.
+	Vignesh has been working on the product full time for the last four weeks. Likhit has been working part time while wrapping up the final stages of his PhD (graduating in Summer).
 
 14. What tech stack are you using, or planning to use, to build this product?
 
@@ -77,7 +77,7 @@
 
 	The Ira Project was born out of our own needs while working in education. Vignesh runs a non profit which creates after-school learning spaces for marginalised children. Likhit has taught multiple courses at different universities and is involved in administration of his school in Bhubaneswar, India. 
 	 
-	While working with students, both of us struggled with was gauging how well a student understood something. The traditional tests and assignments didn't identify the gaps in conceptual understanding. Often we would have to give personalised attention and we found that asking a learner to explain a concept back to us was revealing. 
+	While working with students, both of us struggled with gauging how well a student understood something. The traditional tests and assignments didn't identify the gaps in conceptual understanding. Often we would have to give personalised attention and we found that asking a learner to explain a concept back to us was revealing. 
 
 19. Who are your competitors? What do you understand about your business that they don't?
 
@@ -93,7 +93,7 @@
 
 21. How do users find your product? How did you get the users you have now? If you run paid ads, what is your cost of acquisition?
 
-	Our first users for this product are going to students in Vignesh's non profit and Likhit's school. The next few users will be from our personal network. We have worked with schools in Atlanta and have close friends who are teachers.
+	Our first users for this product are going to be students in Vignesh's non profit and Likhit's school. The next few users will be from our personal network. We have worked with schools in Atlanta and have close friends who are teachers.
 
 22. Where will most of your initial users be located?
 
