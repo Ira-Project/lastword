@@ -1,3 +1,6 @@
+---
+Date Created: 2024-03-10
+---
 ### Purpose
 We have an idea on how technology can be used for learning and we want to explore it a bit further and run some experiments. If we can find conviction in the idea we can decide to pursue it further.
 
@@ -51,7 +54,8 @@ Build out a quick and dirty pilot and start creating things again. Test it in on
 - [x] Make the instructions clearer ✅ 2024-04-09
 - [x] Create OpenAI assistants for each test case ✅ 2024-04-17
 - [x] Fix API timeout issue ✅ 2024-04-20
-### Future Features
+
+### Potential Future Features
 - Set time limits on tests
 - Loading states for all api calls
 - Better logout page

@@ -1,3 +1,6 @@
+---
+Date Created: 2024-04-03
+---
 ### Purpose
 
 We've almost completed an MVP of what we wanted to build. We don't have a lot of subjects and topics and the model isn't perfect but we're getting reasonable results with around three topics across three subjects. The goal is to use the MVP and get some user feedback. There are two types of users that will use this product and we'd like to get insights from both. 

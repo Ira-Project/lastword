@@ -2,18 +2,19 @@
 Date Created: 2024-04-23
 ---
 - Teachers aim to connect topics to real world application - 4
-- Children questions, classroom discussion is best to gauge understanding - 4
+- **Children questions, classroom discussion is best to gauge understanding - 4**
+
 
 - Pushing them to think - 3
 - Very little time for teachers, syllabus pressure - 3
-- Can't reach all students. Many don't clearly share when they're having difficulty.  Currently only relying on facial expressions - 3
+- **Can't reach all students. Many don't clearly share when they're having difficulty.  Currently only relying on facial expressions - 3**
 - Difficulty in identifying copied work or mindless procedure following  - 3
+- Creating interest in children is the hardest part - 3
 
 
 - Current ed tech products don't consider teacher opinions as much - 2
 - Many children are not good at communicating ideas - 2
 - Learning for the test and not for learning. New questions can alleviate this and gauge thinking but hard to keep coming up with new questions - 2
-- Creating interest in children is the hardest part - 3
 
 
 - Correcting notebooks is a pain before class - 1
