@@ -16,7 +16,8 @@ We've also seen how unclear our UI is from our user interviews. Ideally we want 
 
 ### Actions
 
-- [ ] Talk to Dipaq and Abu and get UI feedback
+- [x] Talk to Abu and get UI feedback ✅ 2024-05-02
+- [ ] Perform a UI evaluation using Norman Nielsen's heuristics
 - [ ] UI mockups for test view
 - [ ] UI mockups for teacher dashboard
 - [ ] Update UI to compute all questions at once
