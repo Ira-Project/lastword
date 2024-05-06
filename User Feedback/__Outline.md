@@ -25,5 +25,5 @@ Demo a reasonably functioning MVP to learners. Understand how they're using the 
 - [x] Prepare a script for the user interview with learners and facilitators ✅ 2024-04-19
 - [ ] Identify five learners to test the application with
 - [ ] Demo and test the application with the learners
-- [ ] Identify five teachers to get feedback from 
-- [ ] Demo and test the application with teachers
+- [x] Identify teachers to get feedback from ✅ 2024-05-07
+- [x] Demo and test the application with teachers ✅ 2024-05-07

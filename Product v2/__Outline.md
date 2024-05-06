@@ -17,7 +17,7 @@ We've also seen how unclear our UI is from our user interviews. Ideally we want 
 ### Actions
 
 - [x] Talk to Abu and get UI feedback ✅ 2024-05-02
-- [ ] Perform a UI evaluation using Norman Nielsen's heuristics
+- [x] Perform a UI evaluation using Norman Nielsen's heuristics ✅ 2024-05-07
 - [ ] UI mockups for test view
 - [ ] UI mockups for teacher dashboard
 - [ ] Update UI to compute all questions at once
