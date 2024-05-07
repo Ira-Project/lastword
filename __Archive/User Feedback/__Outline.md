@@ -23,7 +23,7 @@ Demo a reasonably functioning MVP to learners. Understand how they're using the 
 
 ### Actions
 - [x] Prepare a script for the user interview with learners and facilitators ✅ 2024-04-19
-- [ ] Identify five learners to test the application with
-- [ ] Demo and test the application with the learners
+- [x] Identify five learners to test the application with ✅ 2024-05-08
+- [x] Demo and test the application with the learners ✅ 2024-05-08
 - [x] Identify teachers to get feedback from ✅ 2024-05-07
 - [x] Demo and test the application with teachers ✅ 2024-05-07
