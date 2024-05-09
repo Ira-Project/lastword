@@ -18,11 +18,19 @@ We've also seen how unclear our UI is from our user interviews. Ideally we want 
 
 - [x] Talk to Abu and get UI feedback ✅ 2024-05-02
 - [x] Perform a UI evaluation using Norman Nielsen's heuristics ✅ 2024-05-07
+- [ ] Review similar products and products that users might be familiar with
 - [ ] UI mockups for test view
-- [ ] UI mockups for teacher dashboard
-- [ ] Update UI to compute all questions at once
-- [ ] Use subscriptions to handle computations (https://trpc.io/docs/subscriptions)
-- [ ] Create classroom logins and infrastructure for students and teachers
+- [ ] UI mockups for remaining screens
+- [ ] Set up backend models
+- [ ] Login and sign up screens
+- [ ] Home screen for teachers with list of classes
+- [ ] Class creation modal
+- [ ] Class invitation and adding student emails
+- [ ] Specific class view with list of assignments
+- [ ] Assignment creation view with preview
+- [ ] Specific assignment view with list of student performances
+- [ ] Specific student submission view
+- [ ] Student home view and ability to join classes
+- [ ] Student specific classroom view with list of assignments
 - [ ] Update test view UI
-- [ ] Create teacher dashboard view
 

@@ -23,7 +23,7 @@ There are certain incomplete responses where computation is not at all possible 
 
 There are a few different cases here :-
 - Similarity threshold not at all met - When cosine similarity between users explanation is below the threshold for all the concepts in the map. In this case we simply cannot proceed at all and tell the user that we understood nothing and could not proceed. This tends to be the case for gibberish explanations.
-- Similarity threshold met for parent nodes  - In certain cases the parent concepts in the concept graph are present in the explanation but there is still not sufficient information for the computation. Here rather than pointing out what else is needed we simply note how we are unable to calculate with the information that the user has provided. 
+- Similarity threshold met for parent nodes - In certain cases the parent concepts in the concept graph are present in the explanation but there is still not sufficient information for the computation. Here rather than pointing out what else is needed we simply note how we are unable to calculate with the information that the user has provided. 
 - Similarity threshold met for child nodes - Often we also see that explanations by users contain concepts from child nodes. Typically this involves using technical terms without explaining what they are. In such cases the user is prompted to explain the parent concepts that they might have referenced. 
 
 ### Testing for Correctness
