@@ -13,5 +13,6 @@ While we have a functional AI there are still lots of improvements to be made. O
 
 ### Actions
 
-- [ ] Set up questions and assistants for ten topics
-- [ ] Create concept map and ability for AI to map explanation to concepts
+- [x] Create concept map and ability for AI to map explanation to concepts ✅ 2024-05-10
+- [ ] Set up assistant for checking correctness of explanation and creating a response based on
+- [ ] Set up questions and assistants for ten topics in Mathematics

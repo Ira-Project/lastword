@@ -13,6 +13,7 @@ So far we've conducted user interviews with those people that we know. While the
 - What can I read or listen to for relevant ideas? - YC has some great videos about getting early customers. 
 
 ### Actions
-- [ ] Speak to Aditya and Amrutha on customer acquisition
+- [ ] Speak to Amrutha on customer acquisition
+- [ ] Speak to Aditya on customer acquisition
 - [ ] Figure out a v1 process on how to get early customers
 
