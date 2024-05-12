@@ -18,19 +18,27 @@ We've also seen how unclear our UI is from our user interviews. Ideally we want 
 
 - [x] Talk to Abu and get UI feedback ✅ 2024-05-02
 - [x] Perform a UI evaluation using Norman Nielsen's heuristics ✅ 2024-05-07
-- [ ] Review similar products and products that users might be familiar with
-- [ ] UI mockups for test view
-- [ ] UI mockups for remaining screens
+- [x] Review similar products and products that users might be familiar with ✅ 2024-05-11
+- [ ] Design mockups for test view
+- [x] Design login and sign up screens ✅ 2024-05-11
+- [x] Design home screen for teachers with list of classes ✅ 2024-05-11
+- [x] Design class creation modal ✅ 2024-05-11
+- [ ] Design class invitation and adding student emails
+- [x] Design specific class view with list of assignments ✅ 2024-05-11
+- [ ] Design assignment creation view with preview
+- [ ] Design specific assignment view with list of student performances
+- [ ] Design specific student submission view
+- [ ] Design student home view and ability to join classes
 - [ ] Set up backend models
-- [ ] Login and sign up screens
-- [ ] Home screen for teachers with list of classes
-- [ ] Class creation modal
-- [ ] Class invitation and adding student emails
-- [ ] Specific class view with list of assignments
-- [ ] Assignment creation view with preview
-- [ ] Specific assignment view with list of student performances
-- [ ] Specific student submission view
-- [ ] Student home view and ability to join classes
-- [ ] Student specific classroom view with list of assignments
+- [ ] Code login and sign up screens
+- [ ] Code home screen for teachers with list of classes
+- [ ] Code class creation modal
+- [ ] Code class invitation and adding student emails
+- [ ] Code specific class view with list of assignments
+- [ ] Code assignment creation view with preview
+- [ ] Code specific assignment view with list of student performances
+- [ ] Code specific student submission view
+- [ ] Code student home view and ability to join classes
+- [ ] Code student specific classroom view with list of assignments
 - [ ] Update test view UI
 
