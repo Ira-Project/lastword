@@ -1,5 +1,6 @@
 ### Purpose
-While we have a functional AI there are still lots of improvements to be made. Our current set up requires a lot of manual effort and the underlying conceptual map works like a waterfall rather than a web. Our goal is to improve the AI so there are less errors and gaps in student understanding is actually uncovered. We also want to have enough topics so teachers may actually use them in their class rooms and have a clear process to set up new topics and questions on demand. 
+
+While we have a functional AI there are still lots of improvements to be made. Our current set up requires a lot of manual effort and the underlying conceptual map works like a waterfall rather than a web. The last student interview also was incredibly frustrating for the user and the AI didn't work at all despite correct answers. Our goal is to improve the AI so there are less errors and gaps in student understanding is actually uncovered. 
 
 ### Principles
 - Robust - We actually want to sell this to customers so to a reasonable degree we'd like the AI to gauge students accurately. Given there is an element of fairness necessary as well across students we'd like to get consistent results. 
@@ -15,4 +16,3 @@ While we have a functional AI there are still lots of improvements to be made. O
 
 - [x] Create concept map and ability for AI to map explanation to concepts ✅ 2024-05-10
 - [ ] Set up assistant for checking correctness of explanation and creating a response based on
-- [ ] Set up questions and assistants for ten topics in Mathematics

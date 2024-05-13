@@ -1,12 +1,14 @@
 ### Purpose
 
-From our user interviews the main pain point for teachers seems to be gauging understanding right after a lecture. Before building on a topic or moving forward they would like to know where the children are. We'd like to test how intense this pain point is and if our product can actually solve this for users. 
+From our user interviews the main pain point for teachers seems to be gauging students' conceptual understanding right after a lecture. Before building on a topic or moving forward they would like to know how much the children have understood. 
 
-We've also seen how unclear our UI is from our user interviews. Ideally we want our product to be self explanatory to users and simple to understand. 
+We'd like to test how intense this pain point is and if our product can actually solve this for teachers. To test this out we would have to allow teachers to create and share assignments with their classes. We also would need to show or share some analytics to the teacher so they can see the way the class has performed. 
+
+We've also seen how unclear our UI is from our user interviews. Ideally we want our product to be self explanatory to users and simple to understand. This would ensure that we're not getting any noise in the student understanding based on understanding of the product. 
 
 ### Principles 
-- Simple. Remember the goal is not to build a perfect product on day one but to test our hypothesis and learnings from the user interviews. 
-- Stable. We want our product to be free of bugs and clear to understand. We do want it to be used in production environments in schools and classrooms so we can get clear feedback from users. 
+- Simple. Remember the goal is not to build a perfect product on day one but to test our hypothesis and learnings from users. 
+- Stable. We want our product to be free of bugs and clear to understand. We do want it to be used in production environments in schools and classrooms so we can get feedback en masse. 
 
 ### Brainstorming
 - What do I already know about this project? - We have some learnings from the user interview and have built MVPs in the past. 
@@ -19,16 +21,22 @@ We've also seen how unclear our UI is from our user interviews. Ideally we want 
 - [x] Talk to Abu and get UI feedback ✅ 2024-05-02
 - [x] Perform a UI evaluation using Norman Nielsen's heuristics ✅ 2024-05-07
 - [x] Review similar products and products that users might be familiar with ✅ 2024-05-11
-- [ ] Design mockups for test view
+- [x] Design mockup concepts for test view ✅ 2024-05-08
 - [x] Design login and sign up screens ✅ 2024-05-11
 - [x] Design home screen for teachers with list of classes ✅ 2024-05-11
 - [x] Design class creation modal ✅ 2024-05-11
-- [ ] Design class invitation and adding student emails
+- [x] Design class invite view ✅ 2024-05-13
 - [x] Design specific class view with list of assignments ✅ 2024-05-11
-- [ ] Design assignment creation view with preview
-- [ ] Design specific assignment view with list of student performances
-- [ ] Design specific student submission view
-- [ ] Design student home view and ability to join classes
+- [x] Design assignment creation view with preview ✅ 2024-05-13
+- [x] Design specific assignment view with list of student performances ✅ 2024-05-13
+- [x] Design specific student submission view ✅ 2024-05-13
+- [x] Design student home view and ability to join classes ✅ 2024-05-13
+- [x] Design assignment list view and modals to create assignment from there ✅ 2024-05-13
+- [x] Design modal to show before assignment start ✅ 2024-05-14
+- [x] Design final test view empty state ✅ 2024-05-14
+- [x] Design final test view loading state ✅ 2024-05-14
+- [x] Design final test view response state ✅ 2024-05-14
+- [x] Design final test view submitted state ✅ 2024-05-14
 - [ ] Set up backend models
 - [ ] Code login and sign up screens
 - [ ] Code home screen for teachers with list of classes
@@ -40,5 +48,6 @@ We've also seen how unclear our UI is from our user interviews. Ideally we want 
 - [ ] Code specific student submission view
 - [ ] Code student home view and ability to join classes
 - [ ] Code student specific classroom view with list of assignments
+- [ ] Code viewing submissions 
 - [ ] Update test view UI
 
