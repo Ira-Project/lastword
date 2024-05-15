@@ -1,6 +1,8 @@
 ---
 Date Created: 2024-05-14
 ---
+### Done
+
 User
 - Email
 - EmailVerified
@@ -30,11 +32,13 @@ Class
 Subject
 - Text
 
-Class - User
+ClassMember
 - ClassId
 - User Id
 - Code
 - Type - Teacher or Student
+
+### To Do
 
 Assignment
 - Name

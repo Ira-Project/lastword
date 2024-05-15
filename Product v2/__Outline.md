@@ -38,7 +38,6 @@ We've also seen how unclear our UI is from our user interviews. Ideally we want 
 - [x] Design final test view response state ✅ 2024-05-14
 - [x] Design final test view submitted state ✅ 2024-05-14
 - [x] Scope database models and API requirements ✅ 2024-05-14
-- [ ] Set up backend models
 - [x] Code login and sign up screens ✅ 2024-05-15
 - [ ] Code home screen for teachers with list of classes
 - [ ] Code class creation modal
