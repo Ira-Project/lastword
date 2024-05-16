@@ -15,4 +15,4 @@ While we have a functional AI there are still lots of improvements to be made. O
 ### Actions
 
 - [x] Create concept map and ability for AI to map explanation to concepts ✅ 2024-05-10
-- [ ] Set up assistant for checking correctness of explanation and creating a response based on
+- [x] Set up assistants for checking correctness of explanation and creating a response based on user input ✅ 2024-05-17

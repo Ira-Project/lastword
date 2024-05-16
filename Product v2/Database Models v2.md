@@ -45,6 +45,7 @@ Assignment
 - Due Date
 - Max Score
 - Time Limit
+- ImageUrl
 - AssignmentTemplateId
 - ClassId
 - isLive

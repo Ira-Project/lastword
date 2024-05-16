@@ -39,15 +39,14 @@ We've also seen how unclear our UI is from our user interviews. Ideally we want 
 - [x] Design final test view submitted state ✅ 2024-05-14
 - [x] Scope database models and API requirements ✅ 2024-05-14
 - [x] Code login and sign up screens ✅ 2024-05-15
-- [ ] Code home screen for teachers with list of classes
-- [ ] Code class creation modal
-- [ ] Code class invitation and adding student emails
-- [ ] Code specific class view with list of assignments
+- [x] Code home screen for teachers with list of classes ✅ 2024-05-16
+- [x] Code class creation modal ✅ 2024-05-16
+- [x] Code class joining modal ✅ 2024-05-16
+- [ ] Empty states for classes page
+- [x] Code specific class view with list of assignments ✅ 2024-05-17
+- [ ] Create tab functionality for the assignments page
+- [ ] Code specific class view with list of people
+- [ ] Code test view
 - [ ] Code assignment creation view with preview
-- [ ] Code specific assignment view with list of student performances
+- [ ] Code specific assignment teacher view with list of student performances
 - [ ] Code specific student submission view
-- [ ] Code student home view and ability to join classes
-- [ ] Code student specific classroom view with list of assignments
-- [ ] Code viewing submissions 
-- [ ] Update test view UI
-
