@@ -42,11 +42,12 @@ We've also seen how unclear our UI is from our user interviews. Ideally we want 
 - [x] Code home screen for teachers with list of classes ✅ 2024-05-16
 - [x] Code class creation modal ✅ 2024-05-16
 - [x] Code class joining modal ✅ 2024-05-16
-- [ ] Empty states for classes page
+- [x] Empty states for classes page ✅ 2024-05-18
 - [x] Code specific class view with list of assignments ✅ 2024-05-17
-- [ ] Create tab functionality for the assignments page
-- [ ] Code specific class view with list of people
+- [x] Create tab functionality for the assignments page ✅ 2024-05-17
+- [x] Code specific class view with list of people ✅ 2024-05-17
 - [ ] Code test view
 - [ ] Code assignment creation view with preview
 - [ ] Code specific assignment teacher view with list of student performances
 - [ ] Code specific student submission view
+- [ ] Deep linking to handle assignments

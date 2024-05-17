@@ -38,8 +38,6 @@ ClassMember
 - Code
 - Type - Teacher or Student
 
-### To Do
-
 Assignment
 - Name
 - Due Date
@@ -59,18 +57,17 @@ AssignmentTemplate
 - ConceptGraph
 - Prompt (if needed)
 
+### To Do
+
 Concept
 - QuestionText
+- AssignmentTemplateId
+- Position
 
 ConceptExplanationText
 - ConceptId
 - AlternateText
 - Embedding Vector
-
-AssignmentTemplate - Concept
-- AssignmentTemplateId
-- ConceptId
-- Position
 
 Attempt
 - UserId
