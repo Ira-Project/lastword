@@ -24,5 +24,8 @@ We are building Ira, an AI buddy that students can teach concepts to. Instead of
     
 9. Team introduction video:
     
-10. Pitch deck URL: 
+10. Pitch deck URL:
+
+11. Why is your team a winning team?
+
 
