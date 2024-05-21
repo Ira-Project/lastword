@@ -28,4 +28,30 @@ We are building Ira, an AI buddy that students can teach concepts to. Instead of
 
 11. Why is your team a winning team?
 
+We have great founder-market fit due to our experience in education. For the past 7 years, Vignesh has been running a non profit which creates after-school learning spaces for marginalised children. He co-founded the non-profit and is actively engaged in teaching. As a PhD student at Georgia Tech, I have taught multiple courses at different universities and am also involved in administration of a private school in Bhubaneswar, India. Both of us are passionate about teaching and technology. Vignesh has previous founder experience that will be invaluable. With the Ira Project, he is working on a product where he has experienced the problem himself thus giving him the conviction to succeed. I have used neural networks extensively in my research and can build and deploy AI models. My expertise in machine learning combined with my love for teaching make me the ideal CTO for developing Ira. We have also known each other since our undergraduate days at Georgia Tech and work well in a team.
+
+12. Please share any traction metrics you have.
+
+We have built out an MVP and tested it out with 5 teachers and 5 students. We are about to launch a classroom-ready version.
+
+13. How do you make money? How much could you make?
+
+
+14. Who is your target audience?
+
+
+15. Who are your competitors?
+
+
+16. What is your competetive advantage?
+
+
+17. Why is now the right timing for your startup?
+
+
+18. What is your customer acquisition strategy?
+
+
+19. What are your next major company milestones?
+
 
