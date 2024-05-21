@@ -1,7 +1,7 @@
-1. Startup Name
+1. Startup Name:
    Ira Project
      
-2. Startup URL
+2. Startup URL:
    
 3. What year was the company founded?
    2024
@@ -18,10 +18,10 @@
 7. What industries are relevant to your company?
    AI&ML, Edtech
     
-8. Product Demo video URL
+8. Product Demo video URL:
 
     
-9. Team introduction video
+9. Team introduction video:
     
-10. Pitch deck URL
+10. Pitch deck URL: 
 
