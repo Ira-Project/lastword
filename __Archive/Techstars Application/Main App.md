@@ -8,7 +8,7 @@
    
 4. What problem are you looking to solve?
 
-
+Based on our teaching experience, we found it difficult to accurately gauge the understanding of every student for STEM concepts. Traditional assignments promoted regurgitation of procedures and didn't identify gaps in understanding. We realized that asking a learner to explain a concept back to us was quite revealing. However, this was a lengthy process and not well-standardized. What if there was a product that enabled each student to teach and gave teachers the feedback from these sessions?
    
 5. What is your company going to make to solve this problem?
    
