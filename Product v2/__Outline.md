@@ -54,6 +54,7 @@ We've also seen how unclear our UI is from our user interviews. Ideally we want 
 - [x] Code test view creation of test attempt models ✅ 2024-05-22
 - [x] Code test view UI and concept graph updates ✅ 2024-05-22
 - [x] Code test view tutorial modal and navigating using help button ✅ 2024-05-22
+- [ ] Update the question card to also show the answers
 - [ ] Code submission of test and submission modal
 - [ ] Code specific assignment teacher view with list of student performances
 - [ ] Code concept percentages in specific assignment view
