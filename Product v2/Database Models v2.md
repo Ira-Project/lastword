@@ -41,11 +41,11 @@ ClassMember
 Assignment
 - Name
 - Due Date
-- Max Score
-- Time Limit
-- ImageUrl
-- AssignmentTemplateId
-- ClassId
+- Topic
+- Max Score?
+- Time Limit?
+- ConceptGraphId?
+- ClassId?
 - isLive
 - isSample
 - ShowConceptHints
@@ -57,17 +57,52 @@ AssignmentTemplate
 - ConceptGraph
 - Prompt (if needed)
 
-### To Do
+ConceptGraph
+- id
 
 Concept
-- QuestionText
-- AssignmentTemplateId
-- Position
+- ConceptGraphId
+- formula
+- calculationR
+
+ConceptQuestion
+- ConceptId
+- Text
+
+ConceptGraphEdges
+- id
+- fromConceptId
+- toConceptId
+- conceptGraphId
+
+ConceptGraphRoot
+- ConceptGraphId
+- ConceptId
 
 ConceptExplanationText
 - ConceptId
 - AlternateText
 - Embedding Vector
+
+Questions
+- Text
+- Answer
+- ConceptSubGraph
+- AssignmentTemplateId || AssignmentId
+
+Explanation
+- Text
+- Embedding -> Can choose to not store
+- UserId
+- AttemptId?
+- AssignmentTemplateId || AssignmentId 
+
+CorrectConcepts
+- ExplanationId
+- ConceptId
+
+----
+### To Do
 
 Attempt
 - UserId
@@ -76,27 +111,9 @@ Attempt
 - FinalExplanationId
 - SubmittedAt 
 
-Explanation
-- Text
-- Embedding -> Can choose to not store
-- CorrectConcepts
-- UserId
-- AttemptId
-
 Answer
-- ExplanationId
-- QuestionId
-- ComputedAnswer
+- ExplanationId 
+- QuestionId 
+- ComputedAnswer 
 - IsCorrect -> Computed property 
-- Explanation text
-
-Questions
-- Text
-- Answer
-- ConceptSubGraph
-- AssignmentTemplateId
-
-Question - Assignment Template
-- QuestionId
-- AssignmentTemplateId
-
+- Explanation Text 
