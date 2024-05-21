@@ -101,10 +101,7 @@ CorrectConcepts
 - ExplanationId
 - ConceptId
 
-----
-### To Do
-
-Attempt
+TestAttempt
 - UserId
 - AssignmentId
 - Score

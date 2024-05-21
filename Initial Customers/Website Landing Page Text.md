@@ -44,6 +44,7 @@ Image - Show some random file uploaded, a card with generated concept map with h
 Safety Checks
 - Our team takes 24 hours and runs a series of rigorous tests to ensure that the AI responds as intended. 
 - As a final layer of security we also include a human intervention for each and every created assignment. 
+- INSERT Something about guardrails since that's something we're really strong at
 
 Image - Have to figure out
 
