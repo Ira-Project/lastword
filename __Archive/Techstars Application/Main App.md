@@ -36,22 +36,32 @@ We have built out an MVP and tested it out with 5 teachers and 5 students. We ar
 
 13. How do you make money? How much could you make?
 
+Currently, we haven't generated any revenue. We're thinking of starting out with a freemium model. We will provide a free tier for teachers to try our product in their classrooms so that we can acquire more data. For schools, we plan to charge them to administer and access assignments for their students.
 
 14. Who is your target audience?
 
+We are planning a B2B strategy where our target audience will be K-12 schools in the United States.
 
 15. Who are your competitors?
 
+Edtech companies that leverage AI to help K-12 students learn while giving teachers a tool to assess understanding. Some examples include FlintK12, Khan Academy, Kahoot.
 
 16. What is your competetive advantage?
 
+1) Most of the products today have students consuming content. By teaching an AI model, we're allowing them to create something - providing a different learning experience.
+2) Our product helps students discover what they know and how they know something.
+3) We are not creating AI tutors to replace physical teachers. Rather, our product fits into the teacher's workflow and aims to enable them.
 
 17. Why is now the right timing for your startup?
 
+The advent of LLMs has made it possible for AI models to undertstand and reason using natural language. This is the core requirement for creating an AI peer that can communicate and learn STEM concepts from students. 
 
 18. What is your customer acquisition strategy?
 
+Our first users for this product are going to be the teachers in Vignesh's non profit and Likhit's school. The next few users will be from our personal network that we have built with schools in Atlanta. We also plan to reach out to teacher forums on Reddit and Facebook.
 
 19. What are your next major company milestones?
+
+Converting a school to be our first customer. 
 
 
