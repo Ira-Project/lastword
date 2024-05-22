@@ -47,19 +47,20 @@ We've also seen how unclear our UI is from our user interviews. Ideally we want 
 - [x] Create tab functionality for the assignments page ✅ 2024-05-17
 - [x] Code specific class view with list of people ✅ 2024-05-17
 - [x] Implement loading states for all the pages ✅ 2024-05-18
-- [ ] AI code and update states accordingly
-- [ ] Create suspense for assignment preview
-- [ ] Create suspense for assignment views
+- [x] Create suspense for assignment preview ✅ 2024-05-22
+- [x] Create suspense for assignment views ✅ 2024-05-22
 - [x] Code assignment creation view with preview ✅ 2024-05-22
 - [x] Code test view creation of test attempt models ✅ 2024-05-22
 - [x] Code test view UI and concept graph updates ✅ 2024-05-22
 - [x] Code test view tutorial modal and navigating using help button ✅ 2024-05-22
-- [ ] Update the question card to also show the answers
-- [ ] Code submission of test and submission modal
+- [x] Add loading state for tab view in classroom page ✅ 2024-05-22
+- [x] Update the question card to also show the answers ✅ 2024-05-22
+- [x] AI code and update states accordingly ✅ 2024-05-23
+- [x] Code submission of test and submission modal ✅ 2024-05-23
+- [ ] Create answer objects for reference
 - [ ] Code specific assignment teacher view with list of student performances
 - [ ] Code concept percentages in specific assignment view
 - [ ] Code specific student submission view
 - [ ] Deep linking to handle assignments
-- [ ] Add loading state for tab view in classroom page
 - [ ] Code assignment template creation view 
 
