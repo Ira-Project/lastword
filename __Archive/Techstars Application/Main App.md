@@ -12,7 +12,7 @@ In STEM education traditional assignments promote regurgitation of procedures an
    
 5. What is your company going to make to solve this problem?
 
-We are building a new type of assignments where students teach concepts to an AI buddy. Instead of answering questions, students have to explain to Ira how to solve them. Ira then "learns" from the explanation and attempts to solve a set of questions. Based on their explanations, we are able to build a knowledge graph representing the concepts that the students understood and those they didn't. The teachers can then use these knowledge graphs to adapt their future lesson plans or provide personalised interventions.
+We are building a new type of assignments where students teach concepts to an AI buddy. Ira then "learns" from the student's explanation and attempts to solve a set of questions. Based on their explanations, we are able to build a knowledge graph representing the concepts that the students understood and those they didn't. The teachers can then use these knowledge graphs to adapt their future lesson plans or provide personalized interventions.
    
 6. Is your company incorporated?
    No
@@ -28,15 +28,15 @@ We are building a new type of assignments where students teach concepts to an AI
 
 11. Why is your team a winning team?
 
-We have great founder-market fit due to our experience in education. For the past 7 years, Vignesh has been running a non profit which creates after-school learning spaces for marginalised children. He co-founded the non-profit and is actively engaged in teaching. As a PhD student at Georgia Tech, I have taught multiple courses at different universities and am also involved in administration of a private school in Bhubaneswar, India. Both of us are passionate about teaching and technology. Vignesh has also been a co-founder thrice before and has successfully scaled products to 100k+ users. I have used neural networks extensively in my research and can build and deploy AI models. My expertise in machine learning combined with my love for teaching make me the ideal CTO for developing Ira. We have also known each other since our undergraduate days at Georgia Tech and work well in a team.
+We have great founder-market fit due to our experience in education. For the past 7 years, Vignesh has been running a non profit which creates after-school learning spaces for marginalised children. He co-founded the non-profit and is actively engaged in teaching. As a PhD student at Georgia Tech, I have taught multiple courses at different universities and am also involved in administration of a private school in Bhubaneswar, India. Vignesh has also been a co-founder thrice before and has successfully scaled products to 100k+ users. I have used neural networks extensively in my research and can build and deploy AI models. My expertise in machine learning and my teaching experience make me the ideal CTO for developing Ira. Both of us are passionate about teaching and technology. We have also known each other since our undergraduate days at Georgia Tech and work well in a team.
 
 12. Please share any traction metrics you have.
 
-We have built out an MVP and tested it out with 5 teachers and 5 students. We have built out a classroom ready version and are have a school ready to conduct a pilot. 
+We have built out an MVP and tested it out with 5 teachers and 5 students. We just finished building out a classroom ready version and are rolling out a pilot to the first school.
 
 13. How do you make money? How much could you make?
 
-Currently, we haven't generated any revenue. Our product caters to schools and we will make money by selling to them. The market for K-12 STEM education is massive and we feel this is an underserved problem. 
+Currently, we haven't generated any revenue. Our product caters to schools and we will make money by selling to them. The market for K-12 STEM education is massive and we are addressing an underserved problem. 
 
 14. Who is your target audience?
 
@@ -44,7 +44,7 @@ Our target audience will be K-12 schools in the United States.
 
 15. Who are your competitors?
 
-Edtech companies that leverage AI to help K-12 students learn while giving teachers a tool to assess understanding. Some examples include FlintK12, Khan Academy, Kahoot.
+Edtech companies that build AI tools for the classroom or leverage AI to help K-12 students learn. Some examples include FlintK12, Khan Academy, Kahoot.
 
 16. What is your competitive advantage?
 
@@ -62,6 +62,6 @@ Our first users for this product are going to be the teachers in Vignesh's non p
 
 19. What are your next major company milestones?
 
-Converting a school to be our first customer. 
+To set up a robust distribution channel in the US and build brand awareness for our product. We are also looking forward to the upcoming pilot that will give us valuable feedback on our features.  
 
 
