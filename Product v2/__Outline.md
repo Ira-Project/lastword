@@ -59,8 +59,9 @@ We've also seen how unclear our UI is from our user interviews. Ideally we want 
 - [x] Code submission of test and submission modal ✅ 2024-05-23
 - [ ] Create answer objects for reference
 - [ ] Code specific assignment teacher view with list of student performances
+- [ ] Code assignment template creation view 
 - [ ] Code concept percentages in specific assignment view
 - [ ] Code specific student submission view
 - [ ] Deep linking to handle assignments
-- [ ] Code assignment template creation view 
+
 
