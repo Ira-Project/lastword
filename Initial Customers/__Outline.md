@@ -1,6 +1,10 @@
 ### Purpose
 
-So far we've conducted user interviews with those people that we know. While the response has been positive there really is no better validation than getting paying customers. Our goal is to get two to three paying customers to try out and use our product. The idea is to not to optimise revenue but to get invested customers so we can get honest feedback. 
+So far we've conducted user interviews with those people that we know. While the response has been positive there really is no better validation than getting paying customers. Our goal is to get two to three paying customers to try out and use our product. There are four main goals :-
+- Getting teacher and student feedback
+- Identifying a distribution channel
+- Figuring out pricing and a business model
+- Understanding more the sales cycle
 
 ### Principles 
 - Feature requests. While feature requests are feedback in some form it's important to not get into building too much and actually getting users to use the product. 
@@ -16,5 +20,5 @@ So far we've conducted user interviews with those people that we know. While the
 - [x] Speak to Amrutha on customer acquisition ✅ 2024-05-14
 - [ ] Speak to Aditya on customer acquisition
 - [ ] Figure out a v1 process on how to get early customers
-- [ ] Create a landing page for 
+- [ ] Create a landing page
 
