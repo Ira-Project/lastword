@@ -1,7 +1,6 @@
 ---
 Date Created: 2024-05-24
 ---
-
 Messaging 
 - What exactly are we selling
 - Landing page content
