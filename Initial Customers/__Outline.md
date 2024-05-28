@@ -21,14 +21,11 @@ So far we've conducted user interviews with those people that we know. While the
 - [x] Create a landing page ✅ 2024-05-27
 - [x] Buy LinkedIn premium ✅ 2024-05-27
 - [ ] Speak to Aditya on customer acquisition
+- [x] Put analytics on landing page and website 📅 2024-05-28 ✅ 2024-05-28
 - [ ] Make a LinkedIn post with the demo video
-- [ ] LinkedIn reach out to 25 teachers in charter schools in US (5/25 done)
-- [ ] LinkedIn reach out to 25 leaders in charter and private schools in US (7/25)
-- [ ] LinkedIn reach out to 25 teachers in public schools in US (7/25)
-- [ ] LinkedIn reach out to 25 technology leaders in public schools in US (6/25)
-- [ ] Facebook reach out to 25 teachers in charter schools in US
-- [ ] Facebook reach out to 25 technology leaders in charter schools in US
-- [ ] Facebook reach out to 25 teachers in public schools in US
-- [ ] Facebook reach out to 25 technology leaders in public schools in US
+- [ ] LinkedIn reach out to 25 teachers in charter schools in Georgia (7/25 done)
+- [ ] LinkedIn reach out to 25 administrators in charter and private schools in Georgia (7/25)
+- [ ] LinkedIn reach out to 25 teachers in public schools in Georgia (12/25)
+- [ ] LinkedIn reach out to 25 administrators in public schools in Georgia (14/25)
 
 
