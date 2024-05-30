@@ -42,3 +42,11 @@ Our student demos were the most exciting part of our story so far. When we teste
 
 8. Share about your user interviews / customer discovery - How many have you done? What have been your key learnings?
 
+We've done ten interviews with teachers and students.
+
+1. From the students we discovered that while the product was adept at finding student concept gaps, the interface wasn't intuitive. We have since updated the UI and built out a version 2 of the product.  
+2. Teachers were very excited about the product and resonated with the approach we were taking. Few of them were willing to do pilots in their schools once the schools reopened.
+
+The key learnings have been as follows: 
+- Teachers currently only have subjective and qualitative ways such as reading facial expressions to gauge conceptual understanding.
+- Lot of teachers felt a disconnect with Ed Tech products because those who were building them didn't have teaching experience. 
