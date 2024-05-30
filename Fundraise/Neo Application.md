@@ -3,11 +3,11 @@ Date Created: 2024-05-30
 ---
 1. Short Description
 
-Our product redifines formative assesments with the goal of helping STEM teachers identify gaps in their student's conceptual understanding. Rather than solving questions directly, students explain concepts to Ira (our AI) and teach it how to derive the answers.
+Our product redifines assesments with the goal of helping STEM teachers identify gaps in their student's conceptual understanding. Rather than solving questions directly, students explain concepts to Ira (our AI) and teach it how to derive the answers.
 
 2. What is your market and how big is it? What is your approach to tackling this market? 
 
-The total market size would be USD 2.50 trillion, which is the global K-12 education market size in 2023. Within this vast market, we want to set a new standard for formative assessments in STEM, starting with high schools in the US. With a narrow focus, we can fine tune our AI to be effective at learning STEM concepts. 
+The total market size would be USD 2.50 trillion, which was the estimated K-12 education market size in 2023. Within this vast market, we want to set a new benchmark for formative assessments in STEM, starting with high schools in the US. After gaining traction with a few schools, we would push for the counties and school districts to adopt our product as the standardized method for assessing and improving learning outcomes. We can also fine tune our AI to be effective at learning STEM concepts. 
 
 3. Who is your target customer? 
 
@@ -21,7 +21,7 @@ Our product provides an 'aha' moment quite quickly and we feel that we can lever
 
 5. What’s the most surprising or counterintuitive insight that you’ve learned about your customer? 
 
-
+When we started interviewing teachers, we expected them to find our approach novel and disruptive. We thought we would have to convince them about the benefits of learning by teaching. But we found that all of them used some variation of our approach in their classrooms. They would set up peer discussions or even ask students to present their learnings. What they actually struggled with was doing this at scale and dealing with time constraints to extend this to every topic they taught.
 
 
 6. Why do you think your company will succeed?
