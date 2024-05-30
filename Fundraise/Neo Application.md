@@ -3,11 +3,11 @@ Date Created: 2024-05-30
 ---
 1. Short Description
 
-Our product redifines assesments with the goal of helping STEM teachers identify gaps in their student's conceptual understanding. Rather than solving questions directly, students explain concepts to Ira (our AI) and teach it how to derive the answers.
+Our product redefines assessments with the goal of helping STEM teachers identify gaps in their student's conceptual understanding. Rather than solving questions directly, students explain concepts to Ira (our AI) and teach it how to derive the answers.
 
 2. What is your market and how big is it? What is your approach to tackling this market? 
 
-The total market size would be USD 2.50 trillion, which was the estimated K-12 education market size in 2023. Within this vast market, we want to set a new benchmark for formative assessments in STEM, starting with high schools in the US. After gaining traction with a few schools, we would push for the counties and school districts to adopt our product as the standardized method for assessing and improving learning outcomes. We can also fine tune our AI to be effective at learning STEM concepts. 
+The total market size would be USD 2.50 trillion, which was the estimated K-12 education market size in 2023. Within this vast market, we want to set a new benchmark for formative assessments in STEM, starting with high schools in the US. After gaining traction with a few schools, we would push for the counties and school districts to adopt our product as the standardized method for assessing and improving learning outcomes. 
 
 3. Who is your target customer? 
 
@@ -30,7 +30,7 @@ We have great founder-market fit due to our experience in education. For the pas
 
 Vignesh has also been a co-founder thrice before and has successfully scaled products to 100k+ users. Likhit has used neural networks extensively in my research and can build and deploy AI models. His expertise in machine learning and teaching experience make him the ideal CTO for developing Ira. Both of us are passionate about teaching and technology. 
 
-There are three areas where we differ from the competition and where we feel our understanding is different and better
+There are a few areas where we differ from the competition and where we feel our understanding is different and better
 	1. Most people are building Ed Tech tools based on what GPT is good at. Being educators ourselves, we're able to build tools that teachers would benefit from. 
 	2. Learning through creation not consumption. Most of the products today have students consuming content. When students teach an AI model we're allowing them to create something thus providing a different learning experience. 
 	3. Known Unknowns vs Unknown Knowns. Products today largely focus on helping users learn something they don't know about. Instead, our product relies on metacognition and helps students discover what they know and how they know something. 
