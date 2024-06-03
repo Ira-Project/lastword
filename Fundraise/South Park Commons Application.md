@@ -22,7 +22,7 @@ Date Created: 2024-05-31
 	 We are working on the Ira Project. Our product redefines assessments with the goal of helping STEM teachers identify gaps in their student's conceptual understanding. Rather than solving questions directly, students explain concepts to Ira (our AI) and teach it how to derive the answers. 
 
 	Using the student's explanations we are able to generate a knowledge graph for every student that teachers can view in a dashboard. 
-	
+
 
 6. What expertise do you have that is related to the ideas you are exploring?
 
