@@ -23,7 +23,6 @@ Date Created: 2024-05-31
 
 	Using the student's explanations we are able to generate a knowledge graph for every student that teachers can view in a dashboard. 
 	
-	When we tested our product with students we found that all of them truly enjoyed working with Ira and found themselves challenged. Our sample was incredibly diverse with students from different economic backgrounds and children who were both doing well and poorly in school. Across this diverse group, we saw high levels of persistence and noticed that children were thinking critically about the concepts. As educators we are 100% sure that we have something exciting! 
 
 6. What expertise do you have that is related to the ideas you are exploring?
 
@@ -33,7 +32,9 @@ Date Created: 2024-05-31
 
 7. What progress have you made?
 
-	 We've built out a classroom ready version of the product. This is our second iteration after one round of user testing. You can find a link to the product demo here - https://www.youtube.com/watch?v=CsX8R6AF_zw.
+	 We've built out a classroom ready version of the product. This is our second iteration after one round of user testing. When we tested our product with students we found that all of them truly enjoyed working with Ira and found themselves challenged. Across a diverse group from different backgrounds, we saw high levels of persistence and noticed that children were thinking critically about the concepts.
+	 
+	 You can find a link to the product demo here - https://www.youtube.com/watch?v=CsX8R6AF_zw.
 	 
 	 From a sales and marketing standpoint we have a few pilots set up and ready to kick start once schools reopen. We are in initial talks with a few prospective customers as well. 
 
