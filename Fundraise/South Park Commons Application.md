@@ -7,17 +7,17 @@ Date Created: 2024-05-31
 
 2. How long has your team been actively exploring starting a company? Why did you decide to work together? (Under 200 words)
 
-	 We've wanted to build something together since college but our paths diverged and we ended up in different parts of the world for a few years. We both have had an excellent rapport with each other and though we were working on different things we always brainstormed with each other and seeked advice from one another. 
+	 We've wanted to build something together since college but our paths diverged and we ended up in different parts of the world for a few years. We have always had an excellent rapport with each other and though we were working on different things we would often brainstorm with each other and seek advice from one another. 
 
-	Actively we've been exploring starting a company for the last three months. We've built an MVP and done some preliminary user testing already. We have conviction in our idea and so far we've thoroughly enjoyed working together. 
+	We've been actively exploring to start a company for the last three months. Our experiences and skillsets complement each other and align well for the domain we want to work in. So we decided to build an MVP and do some preliminary user testing. The conviction in our idea has deepened and so far we've thoroughly enjoyed working together. 
 
 3. For each team member, share a product, project, or accomplishment you are most proud of and why. (Keep each example under 200 words)
 
-	 Vignesh Prasad - For the past few years of co-founded a few startups but the project I'm most proud of is the non-profit I started about six years ago. We started as an experiment creating learner centric learning spaces where decisions are made by the children. Today we have grown to six spaces and three hundred children. What has been particularly pleasing is that we've managed to stay true to the vision and keep spaces learner centric even at scale and in low resource settings. Some of the children in the space have gone on to do very well in high school and are the first in their families to go to college. 
+	 Vignesh Prasad - For the past few years, I co-founded a few startups but the project I'm most proud of is the non-profit I started about six years ago. We started as an experiment to create a learner-centric learning space where decisions are made by the children. Today we have grown to six spaces across Bangalore and we work alongside three hundred children. What has been particularly pleasing is that we've managed to stay true to the original vision and keep the spaces learner centric even at scale and in low resource settings. Some of the children in the space have gone on to do very well in high school and are the first in their families to go to college. 
 
-	Likhit Nayak - As part of my PhD, I set up data collection sites for obtaining 3D scans of pregnant women at four different health centres in Ethiopia. To help the nurses collect scans I built an iOS app that interfaced with the Structure 3D Sensor to acquire and process 3D data on an iPad. This app is currently being used and has helped collect more than 2500 3D scans. Then, I used this data to train a model that takes a raw 3D scan of a pregnant woman as the input and predicts the 3D shape of that woman at future gestational periods. 
+	Likhit Nayak - My PhD research involves working with doctors and nurses in low-resource settings to build tools that would improve maternal and neonatal outcomes. We are currently working in Ethiopia to develop a tool that would use 3D scans of pregnant women to assess the risk of cephalopelvic disproportion. We needed to develop an iOS app that would help the nurses to collect and process these scans. I built an iOS app that interfaced with the Structure 3D Sensor to acquire and process 3D data on an iPad and trained the nurses on using this tool. I also helped set up data collection sites for obtaining these scans at four different public health centres in Ethiopia. So far, this app has been used to collect more than 2500 3D scans thus building the biggest such dataset for gestation.
 
-4. What ideas are you exploring? (Under 200 words)
+5. What ideas are you exploring? (Under 200 words)
 
 	 We are working on the Ira Project. Our product redefines assessments with the goal of helping STEM teachers identify gaps in their student's conceptual understanding. Rather than solving questions directly, students explain concepts to Ira (our AI) and teach it how to derive the answers. 
 
