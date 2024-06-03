@@ -19,18 +19,23 @@ Date Created: 2024-05-31
 
 5. What ideas are you exploring? (Under 200 words)
 
+<<<<<<< HEAD
 	 We are working on the Ira Project. Our product redefines assessments with the goal of helping STEM teachers identify gaps in their student's conceptual understanding. Rather than solving questions directly, students explain concepts to Ira (our AI) and teach it how to derive the answers. 
 
 	Using the student's explanations we are able to generate a knowledge graph for every student that teachers can view in a dashboard. 
 
+=======
+	 We started out by trying to build something that could exactly assess the gaps in the conceptual understanding of students - especially in STEM subjects. We found that the current assignments test for procedural knowledge and teacher's have no standardized method to test for conceptual understanding. Both of us often faced the same issue while teaching. In these situations, we found that asking the students to explain the concepts back to us was quite revealaing. So we are building Ira Project to redefine assessments. Rather than solving questions directly, students explain concepts to Ira (our AI) and teach it how to derive the answers. Using the student's explanations, Ira attempts a set of questions. This gives the teachers a tool to flip the classroom and engage the students in a teaching acitivity at scale. We also allow the students to iterate on their explanations till Ira is able to answer all the questions correctly. They learn while teaching we generate a knowledge graph for every student that the teachers can view in thier dashboard and use it to plan personalized interventions. 
+	
+>>>>>>> 8685f782eabc550b547cc94c50015939acf56752
 
-6. What expertise do you have that is related to the ideas you are exploring?
+7. What expertise do you have that is related to the ideas you are exploring?
 
 	 We have great founder-market fit due to our experience in education. For the past 7 years, Vignesh has been running a non profit which creates after-school learning spaces for marginalised children. He co-founded the non-profit and is actively engaged in teaching. As a PhD student at Georgia Tech, Likhit has taught multiple courses at different universities and is also involved in the administration of a private school in Bhubaneswar, India. 
 
-	Vignesh has also been a co-founder thrice before and has successfully scaled products to 100k+ users. Likhit has used neural networks extensively in his research and can build and deploy AI models. His expertise in machine learning and teaching experience make him the ideal CTO for developing Ira. 
+	Vignesh has also been a co-founder thrice before and has successfully scaled products to 100k+ users. Likhit has used neural networks extensively in his research and can build and deploy AI models. Our expertise in technology and our teaching experience make us the ideal team to tackle the problems in this space. 
 
-7. What progress have you made?
+8. What progress have you made?
 
 	 We've built out a classroom ready version of the product. This is our second iteration after one round of user testing. When we tested our product with students we found that all of them truly enjoyed working with Ira and found themselves challenged. Across a diverse group from different backgrounds, we saw high levels of persistence and noticed that children were thinking critically about the concepts.
 	 
@@ -38,6 +43,6 @@ Date Created: 2024-05-31
 	 
 	 From a sales and marketing standpoint we have a few pilots set up and ready to kick start once schools reopen. We are in initial talks with a few prospective customers as well. 
 
-8. How does the world look different if you succeed? How big is the market, or how does your idea unlock one?
+9. How does the world look different if you succeed? How big is the market, or how does your idea unlock one?
 
-	Our vision is to completely change the way assessments are done in education. If we succeed all testing in school districts, all competitive exams and all college applications will have a component of students teaching concepts to Ira. The global education market is 2.5 trillion USD and assessment is a huge part of it. 
+	Our vision is to completely change the way assessments are done in education. If we succeed, all testing in school districts, competitive exams and college applications will have a component that evaluates how well students are able to teach/explain concepts to an AI. As of 2023, the global education market is 2.5 trillion USD and assessments are a huge part of it. 
