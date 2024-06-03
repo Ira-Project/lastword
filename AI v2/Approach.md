@@ -28,10 +28,9 @@ There are a few different cases here :-
 
 ### Testing for Correctness
 
+To test correctness of the explanation we have to traverse through the question concept graph. Each question has a concept graph and also contains details on whether that particular concept requires a calculation or not. Given we have all the concepts explained by the user we then apply the user's explanation to every node in the traversal that requires a computation. 
 
-
-
-
+We use zero shot prompting here and for each step we seek a response from GPT. We ask GPT to provide us with a function for mathematical operations and we perform the operations ourselves since GPT is unable to apply incorrect formula. 
 
 
 
