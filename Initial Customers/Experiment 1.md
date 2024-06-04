@@ -53,11 +53,16 @@ iraproject.com
 
 There is no explicit CTA we would seek a manual onboarding here and follow up with a calendly link to the user. For the first few customers we want to be very high touch and also filter for users who might be design partners.
 
-
 ### LinkedIn Qualifier
 
 - Look for people with some history so we know they might check LinkedIn
 - Make sure their description makes sense for what we're messaging them about
+
+### Learnings
+
+- Teachers in general are much harder to reach on LinkedIn. The majority of them that are on LinkedIn are looking to make a career transition into a different type of role. 
+- Charter school administrators and teachers aren't too active on LinkedIn
+- The response rates are not too bad at around 10% or so which is a lot higher than I've experienced with OpenOS or LinkedIn
 
 
 ------

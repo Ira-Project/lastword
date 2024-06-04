@@ -22,12 +22,9 @@ So far we've conducted user interviews with those people that we know. While the
 - [x] Buy LinkedIn premium ✅ 2024-05-27
 - [ ] Speak to Aditya on customer acquisition
 - [x] Put analytics on landing page and website 📅 2024-05-28 ✅ 2024-05-28
-- [ ] LinkedIn reach out to 25 teachers in charter schools in Georgia and Bay Area (7/25 done)
-- [ ] LinkedIn reach out to 25 administrators in charter and private schools in Georgia and Bay Area (7/25)
-- [ ] LinkedIn reach out to 25 teachers in public schools in Georgia and Bay Area (12/25)
-- [ ] LinkedIn reach out to 25 administrators in public schools in Georgia and Bay Area (14/25)
+- [x] Reach out on LinkedIn to 50 teachers and administrators from schools in Georgia ✅ 2024-06-04
+- [ ] Reach out on LinkedIn to 50 teachers and administrators from schools in the Bay Area
+- [ ] Email 50 teachers and administrators from schools in Georgia
+- [ ] Email 50 teachers and administrators from schools in the Bay Area
 - [ ] Message 50 teachers on Facebook to see how the response rates are
-- [ ] Email reach out to 25 teachers in charter schools in Georgia and Bay Area (0/25 done)
-- [ ] Email reach out to 25 administrators in charter and private schools in Georgia and Bay Area (0/25)
-- [ ] Email reach out to 25 teachers in public schools in Georgia and Bay Area (0/25)
-- [ ] Email reach out to 25 administrators in public schools in Georgia and Bay Area (0/25)
+
