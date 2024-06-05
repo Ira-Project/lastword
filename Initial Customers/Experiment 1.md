@@ -37,17 +37,8 @@ Technology leaders are most likely the decision makers for EdTech in schools and
 
 - The main hook we're going for is finding gaps in conceptual understanding 
 - We've also explicitly avoided the usage of AI since we feel that there might be fatigue around this buzzword
-- We should also try to tailor the message to some degree. This is a good template to get started with but requires some personalisation.
-
-Hi {Teacher's Name},
-
-My name is Vignesh and I'm building a platform that helps STEM teachers assess and identify gaps in every student's conceptual understanding. We're currently rolling out pilots and thought your school would be a good fit since {if reason exists}. 
-
-I would love to find some time to show you a demo of what we're building. Would sometime on Friday work? If it's easier feel free to choose a time here - calendly.com/ira-project/demo
-
-Best,
-Vignesh
-iraproject.com
+- We should also try to tailor the message to some degree. 
+- See [[Message Outreach Template]]
 
 ### CTA in the message
 
@@ -63,6 +54,7 @@ There is no explicit CTA we would seek a manual onboarding here and follow up wi
 - Teachers in general are much harder to reach on LinkedIn. The majority of them that are on LinkedIn are looking to make a career transition into a different type of role. 
 - Charter school administrators and teachers aren't too active on LinkedIn
 - The response rates are not too bad at around 10% or so which is a lot higher than I've experienced with OpenOS or LinkedIn
+- So far all the responses have been rejections. Small sample size but it might be because we haven't connected with them on the pain points. 
 
 
 ------
