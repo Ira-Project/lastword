@@ -1,0 +1,11 @@
+---
+Date Created: 2024-06-05
+---
+- STEM focused high schools
+- Strong math program - 
+	- Maybe indication of olympiads
+	- Can also see the courses they offer
+- How does AP test play a role?
+	- Maybe can pitch that helps the students understand concepts so they can be better prepared for AP tests
+- Maybe someone who cares about their rankings?
+- Schools that have a director of technology

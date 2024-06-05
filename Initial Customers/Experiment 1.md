@@ -12,7 +12,7 @@ Date Created: 2024-05-27
 	- Very little technology adoption
 	- Less competition
 
-We feel it's probably better to start with US geography and a select few IB schools in India as well. Given there's a higher degree of technology penetration we would be evaluated more correctly and get better feedback as well. 
+We feel it's probably better to start with US geography and a select few IB schools in India as well. For the US we will start with Atlanta and the Bay Area so there's a high chance that we can visit in person to close the deal. Given there's a higher degree of technology penetration we would be evaluated more correctly and get better feedback as well. 
 
 ### What type of school?
 
@@ -38,7 +38,7 @@ Technology leaders are most likely the decision makers for EdTech in schools and
 - The main hook we're going for is finding gaps in conceptual understanding 
 - We've also explicitly avoided the usage of AI since we feel that there might be fatigue around this buzzword
 - We should also try to tailor the message to some degree. 
-- See [[Message Outreach Template]]
+- See [[LinkedIn Initial Message Outreach Template]]
 
 ### CTA in the message
 

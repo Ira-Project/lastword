@@ -24,7 +24,8 @@ So far we've conducted user interviews with those people that we know. While the
 - [x] Put analytics on landing page and website 📅 2024-05-28 ✅ 2024-05-28
 - [x] Reach out on LinkedIn to 50 teachers and administrators from schools in Georgia ✅ 2024-06-04
 - [ ] Reach out on LinkedIn to 50 teachers and administrators from schools in the Bay Area
-- [ ] Make short video demo capturing Aha moment better
+- [ ] Make a better short video demo capturing Ira Project's value prop
+- [ ] Set up a drip email template
 - [ ] Email 50 teachers and administrators from schools in Georgia
 - [ ] Email 50 teachers and administrators from schools in the Bay Area
 - [ ] Message 50 teachers on Facebook to see how the response rates are
