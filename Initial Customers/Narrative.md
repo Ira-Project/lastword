@@ -10,14 +10,15 @@ Notes
 - Can we also include some "anecdata"? 
 - Maybe the problem more strongly felt is that students are using GPT or Chegg for their assignments
 - Another alternative is to maybe pitch getting children ready for a AI world. Concepts are going to be the focus there. 
+- Another alternative here based on some responses is that today's assignments don't get children to think critically
 
 ### Who has the problem? What's the cost of not solving the problem?
 
-STEM teachers face this problem more than others. In classrooms where there is a higher student to teacher ratio knowing each student's understanding level can be challenging. The cost of not solving the problem is that the students you're teaching will find themselves struggling later on when they don't have a good understanding of concepts. They may struggle in AP exams, SATs or in college thereby pulling down the school rankings. 
+STEM teachers face this problem more than others. In classrooms where there is a higher student to teacher ratio knowing each student's understanding level can be challenging. The cost of not solving the problem is that the students you're teaching will find themselves struggling later on when they don't have a good understanding of concepts.
 
 ### How is this currently solved? Why doesn't that work?
 
-Most teachers aren't trying to solve this simply because they don't have time. Some try classroom discussions and different types of assignments. This can be quite time consuming. Once a type of assignment or quiz is conducted it becomes ineffective in the future since the students now know how to solve it procedurally. Platforms like Chegg and even ChatGPT have made many assignments pretty meaningless. 
+Most teachers aren't trying to solve this simply because they don't have time. Some try classroom discussions and different types of assignments. This can be quite time consuming. Once a type of assignment or quiz is conducted it becomes ineffective in the future since the students now know how to solve it procedurally. 
 
 ### What has changed?
 
