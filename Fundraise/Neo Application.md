@@ -23,7 +23,6 @@ Our product provides an 'aha' moment quite quickly and we feel that we can lever
 
 When we started interviewing teachers, we expected them to find our approach novel and disruptive. We thought we would have to convince them about the benefits of learning by teaching. But we found that all of them used some variation of our approach in their classrooms. They would set up peer discussions or even ask students to present their learnings. What they actually struggled with was doing this at scale and dealing with time constraints to extend this to every topic they taught.
 
-
 6. Why do you think your company will succeed?
 	
 We have great founder-market fit due to our experience in education. For the past 7 years, Vignesh has been running a non profit which creates after-school learning spaces for marginalised children. He co-founded the non-profit and is actively engaged in teaching. As a PhD student at Georgia Tech, I have taught multiple courses at different universities and am also involved in administration of a private school in Bhubaneswar, India. 

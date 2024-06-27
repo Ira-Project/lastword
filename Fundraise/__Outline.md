@@ -13,9 +13,12 @@ Our goal is to raise some funding so we can sustain ourselves and build our what
 
 ### Actions
 
-- [ ] Make a pitch deck for Ira Project
-- [ ] Reach out to 10 pre seed VCs in the US
-- [ ] Apply to the 10 accelerators we've made a list of
+- [x] Make a pitch deck for Ira Project ✅ 2024-06-25
+- [x] Make a list of investors from India ✅ 2024-06-25
+- [x] Apply to the accelerators we've made a list of ✅ 2024-06-25
+- [ ] Make a list of investors from US
+- [ ] Reach out to 50 VCs
+- [ ] Practice pitching
 
 
 
