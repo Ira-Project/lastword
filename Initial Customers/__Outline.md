@@ -20,10 +20,10 @@ So far we've conducted user interviews with those people that we know. While the
 - [x] Speak to Amrutha on customer acquisition ✅ 2024-05-14
 - [x] Create a landing page ✅ 2024-05-27
 - [x] Buy LinkedIn premium ✅ 2024-05-27
-- [ ] Speak to Aditya on customer acquisition
 - [x] Put analytics on landing page and website 📅 2024-05-28 ✅ 2024-05-28
 - [x] Reach out on LinkedIn to 50 teachers and administrators from schools in Georgia ✅ 2024-06-04
 - [x] Start warming up the email ✅ 2024-06-05
+- [ ] Speak to Aditya on customer acquisition
 - [ ] Reach out on LinkedIn to 50 teachers and administrators from schools in the Bay Area
 - [ ] Set up a drip email template
 - [ ] Email 50 teachers and administrators from schools in Georgia
