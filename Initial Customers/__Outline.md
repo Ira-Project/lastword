@@ -23,10 +23,12 @@ So far we've conducted user interviews with those people that we know. While the
 - [x] Put analytics on landing page and website 📅 2024-05-28 ✅ 2024-05-28
 - [x] Reach out on LinkedIn to 50 teachers and administrators from schools in Georgia ✅ 2024-06-04
 - [x] Start warming up the email ✅ 2024-06-05
+- [x] Reach out on LinkedIn to 50 teachers and administrators from schools in the Bay Area ✅ 2024-07-08
 - [ ] Speak to Aditya on customer acquisition
-- [ ] Reach out on LinkedIn to 50 teachers and administrators from schools in the Bay Area
-- [ ] Set up a drip email template
-- [ ] Email 50 teachers and administrators from schools in Georgia
+- [ ] Set up a drip email template for teachers
+- [ ] Email 50 teachers from schools in Georgia
+- [ ] Set up a drip email template for administrators
+- [ ] Email 50 administrators from schools in Georgia
 - [ ] Email 50 teachers and administrators from schools in the Bay Area
 - [ ] Message 50 teachers on Facebook to see how the response rates are
 
