@@ -4,7 +4,7 @@ So far we've conducted user interviews with those people that we know. While the
 - Getting teacher and student feedback
 - Identifying a distribution channel
 - Figuring out pricing and a business model
-- Understanding more the sales cycle
+- Understanding the sales cycle
 
 ### Principles 
 - Feature requests. While feature requests are feedback in some form it's important to not get into building too much and actually getting users to use the product. 
@@ -25,10 +25,11 @@ So far we've conducted user interviews with those people that we know. While the
 - [x] Start warming up the email ✅ 2024-06-05
 - [x] Reach out on LinkedIn to 50 teachers and administrators from schools in the Bay Area ✅ 2024-07-08
 - [ ] Speak to Aditya on customer acquisition
-- [ ] Set up a drip email template for teachers
-- [ ] Email 50 teachers from schools in Georgia
+- [x] Set up a drip email template for teachers ✅ 2024-07-08
+- [x] Email math teachers from public schools in Georgia ✅ 2024-07-10
+- [x] Email math teachers from private and charter schools in Georgia ✅ 2024-07-10
+- [ ] Send a follow up email to William
+- [ ] Send a follow up email to Chris 
 - [ ] Set up a drip email template for administrators
-- [ ] Email 50 administrators from schools in Georgia
-- [ ] Email 50 teachers and administrators from schools in the Bay Area
-- [ ] Message 50 teachers on Facebook to see how the response rates are
-
+- [ ] Email 25 administrators from schools in Georgia
+- [ ] Reach out to 50 private/charter school education technology leaders on LinkedIn
