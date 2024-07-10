@@ -1,3 +1,6 @@
+---
+Date Created: 2024-04-21
+---
 1. How long have the founders known one another and how did you meet? Have any of the founders not met in person?
 
 	We have known each other since 2015. We met during our undergraduate degree in Georgia Tech and were also roommates. 

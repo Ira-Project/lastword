@@ -1,3 +1,7 @@
+---
+Date Created: 2024-06-03
+---
+
 ### Purpose
 
 Our goal is to raise some funding so we can sustain ourselves and build our what we're building. The aim is to raise $250k-$500k diluting less than 10% of the company. 

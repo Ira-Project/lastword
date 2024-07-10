@@ -1,3 +1,6 @@
+---
+Date Created: 2024-04-29
+---
 ### Purpose
 
 So far we've conducted user interviews with those people that we know. While the response has been positive there really is no better validation than getting paying customers. Our goal is to get two to three paying customers to try out and use our product. There are four main goals :-

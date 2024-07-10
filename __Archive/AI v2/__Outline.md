@@ -1,3 +1,6 @@
+---
+Date Created: 2024-04-29
+---
 ### Purpose
 
 While we have a functional AI there are still lots of improvements to be made. Our current set up requires a lot of manual effort and the underlying conceptual map works like a waterfall rather than a web. The last student interview also was incredibly frustrating for the user and the AI didn't work at all despite correct answers. Our goal is to improve the AI so there are less errors and gaps in student understanding is actually uncovered. 

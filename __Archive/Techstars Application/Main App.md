@@ -1,7 +1,6 @@
 ---
 Date Created: 2024-05-22
 ---
-
 1. Startup Name:
    Ira Project
      
