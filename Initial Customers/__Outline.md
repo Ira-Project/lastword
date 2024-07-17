@@ -27,12 +27,13 @@ So far we've conducted user interviews with those people that we know. While the
 - [x] Reach out on LinkedIn to 50 teachers and administrators from schools in Georgia ✅ 2024-06-04
 - [x] Start warming up the email ✅ 2024-06-05
 - [x] Reach out on LinkedIn to 50 teachers and administrators from schools in the Bay Area ✅ 2024-07-08
-- [ ] Speak to Aditya on customer acquisition
 - [x] Set up a drip email template for teachers ✅ 2024-07-08
 - [x] Email math teachers from public schools in Georgia ✅ 2024-07-10
 - [x] Email math teachers from private and charter schools in Georgia ✅ 2024-07-10
+- [x] Follow up email to Math teachers with second email in the drip template 📅 2024-07-17 ✅ 2024-07-17
+- [ ] Speak to Aditya on customer acquisition
 - [ ] Send a follow up email to William
 - [ ] Send a follow up email to Chris 
-- [ ] Set up a drip email template for administrators
-- [ ] Email 25 administrators from schools in Georgia
+- [ ] Prospecting school administrators emails
+- [ ] Prospecting education technology leaders emails
 - [ ] Reach out to 50 private/charter school education technology leaders on LinkedIn

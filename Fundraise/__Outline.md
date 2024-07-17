@@ -1,7 +1,6 @@
 ---
 Date Created: 2024-06-03
 ---
-
 ### Purpose
 
 Our goal is to raise some funding so we can sustain ourselves and build our what we're building. The aim is to raise $250k-$500k diluting less than 10% of the company. 
@@ -22,7 +21,7 @@ Our goal is to raise some funding so we can sustain ourselves and build our what
 - [x] Apply to the accelerators we've made a list of ✅ 2024-06-25
 - [x] Make a list of investors from US ✅ 2024-07-01
 - [x] Reach out to 100 VCs ✅ 2024-07-01
-- [ ] Practice pitching
-
-
-
+- [ ] Send out a LinkedIn to all the investors
+- [ ] Make a LinkedIn post about Ira Project
+- [ ] Incorporate Delaware C Corp
+- [ ] Email Class Dojo founder
