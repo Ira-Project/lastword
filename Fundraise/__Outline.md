@@ -27,3 +27,4 @@ Our goal is to raise some funding so we can sustain ourselves and build our what
 - [x] Reply to Aakash 📅 2024-07-22 ✅ 2024-07-22
 - [x] Process lists for Niranjan ✅ 2024-07-22
 - [ ] Follow up with Shailu Tipparaju and Venugopal (Astarc) in August 
+- [ ] Write essay about my thesis on education and approach
