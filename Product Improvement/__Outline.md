@@ -23,7 +23,15 @@ There are a few minor things that we can do in the product to give it the impres
 
 ### Actions
 
-- [ ] Upload lesson plan screen
-- [ ] Fix the AI for probability to make it easier
-- [ ] Understand a few competitors and what features they have
-- [ ] Figure out what goes into a finished product
+- [x] Understand a few competitors and what features they have ✅ 2024-07-20
+- [x] Figure out next set to build ✅ 2024-07-20
+- [x] Upload lesson plan form ✅ 2024-07-20
+- [x] Fix the AI for probability to make it easier ✅ 2024-07-21
+- [ ] Teacher view for assignment page with concept map
+- [ ] Student submission view page
+- [ ] Submission modal doesn't close
+- [ ] Improve nav bar to make it look more polished
+- [ ] Add a set of icons to give the app a more complete feel
+- [ ] Add some small animations and loading spinners where possible
+- [ ] Add class level concept map 
+- [ ] Student summary view for each teacher

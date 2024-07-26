@@ -31,9 +31,9 @@ So far we've conducted user interviews with those people that we know. While the
 - [x] Email math teachers from public schools in Georgia ✅ 2024-07-10
 - [x] Email math teachers from private and charter schools in Georgia ✅ 2024-07-10
 - [x] Follow up email to Math teachers with second email in the drip template 📅 2024-07-17 ✅ 2024-07-17
+- [x] Send a follow up email to William 📅 2024-07-22 ✅ 2024-07-23
 - [ ] Speak to Aditya on customer acquisition
-- [ ] Send a follow up email to William
 - [ ] Send a follow up email to Chris 
-- [ ] Prospecting school administrators emails
-- [ ] Prospecting education technology leaders emails
-- [ ] Reach out to 50 private/charter school education technology leaders on LinkedIn
+- [ ] Prospecting 100 school administrators emails
+- [ ] Prospecting 100 education technology leaders emails
+- [ ] Reach out to 100 education technology leaders on LinkedIn

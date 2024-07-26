@@ -21,7 +21,9 @@ Our goal is to raise some funding so we can sustain ourselves and build our what
 - [x] Apply to the accelerators we've made a list of ✅ 2024-06-25
 - [x] Make a list of investors from US ✅ 2024-07-01
 - [x] Reach out to 100 VCs ✅ 2024-07-01
-- [ ] Send out a LinkedIn to all the investors
-- [ ] Make a LinkedIn post about Ira Project
-- [ ] Incorporate Delaware C Corp
-- [ ] Email Class Dojo founder
+- [x] Send out a LinkedIn to all the investors ✅ 2024-07-18
+- [x] Make a LinkedIn post about Ira Project ✅ 2024-07-18
+- [x] Incorporate Delaware C Corp ✅ 2024-07-20
+- [x] Reply to Aakash 📅 2024-07-22 ✅ 2024-07-22
+- [x] Process lists for Niranjan ✅ 2024-07-22
+- [ ] Follow up with Shailu Tipparaju and Venugopal (Astarc) in August 

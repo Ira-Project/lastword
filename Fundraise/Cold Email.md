@@ -19,3 +19,19 @@ Best,
 Vignesh Prasad
 CEO, Ira Project
 
+-----
+
+Hi ___ 
+
+We are building tools to help teachers prepare students for an AI driven future. Our founding team has worked in education for the last seven years and has scaled startups to 100k+ users.
+
+Teachers currently use quizzes and worksheets to help find gaps in their students' understanding. Rather than having students answer questions our unique assessments ask students to explain concepts to an AI. 
+
+We are looking to raise a pre-seed round. Here's a link to our deck - https://docsend.com/view/8gfsu4angat4zrdr
+
+Looking forward to hearing from you.
+
+Best, 
+Vignesh 
+CEO, Ira Project
+
