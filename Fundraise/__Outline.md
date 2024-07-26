@@ -25,6 +25,7 @@ Our goal is to raise some funding so we can sustain ourselves and build our what
 - [x] Make a LinkedIn post about Ira Project ✅ 2024-07-18
 - [x] Incorporate Delaware C Corp ✅ 2024-07-20
 - [x] Reply to Aakash 📅 2024-07-22 ✅ 2024-07-22
-- [x] Process lists for Niranjan ✅ 2024-07-22
+- [x] Process lists from Niranjan ✅ 2024-07-22
+- [x] Scour through Aditya's LinkedIn for warm intros ✅ 2024-07-26
 - [ ] Follow up with Shailu Tipparaju and Venugopal (Astarc) in August 
 - [ ] Write essay about my thesis on education and approach
