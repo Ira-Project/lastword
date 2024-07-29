@@ -28,4 +28,6 @@ Our goal is to raise some funding so we can sustain ourselves and build our what
 - [x] Process lists from Niranjan ✅ 2024-07-22
 - [x] Scour through Aditya's LinkedIn for warm intros ✅ 2024-07-26
 - [ ] Follow up with Shailu Tipparaju and Venugopal (Astarc) in August 
-- [ ] Write essay about my thesis on education and approach
+- [ ] Write essay about my thesis on education
+- [ ] Redo the Ira Project deck
+- [ ] Send Aditya intro emails
