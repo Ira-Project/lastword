@@ -41,7 +41,7 @@ Hi ___
 
 We are building the Ira Project a platform that maps students’ mental models to generate personalised learning paths. Our founding team has worked in education for the last seven years and has scaled startups to 100k+ users.
 
-School districts in the US purchase 2,591 EdTech tools on an average. 67% of these are unused while 98% of them are not used effectively. By modeling students knowledge state and cognitive styles we help teachers know which apps to use when.
+School districts in the US purchase 2,591 EdTech tools on an average. 67% of these are unused while 98% of them are not used effectively. By modeling students' knowledge state and cognitive styles we help teachers know which apps to use when.
 
 We are looking to raise a pre-seed round and would love to show you what we're building and share our product vision. Here's a link to our deck - https://docsend.com/view/dkz7r2ju38ec6jzj
 

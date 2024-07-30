@@ -31,3 +31,4 @@ Our goal is to raise some funding so we can sustain ourselves and build our what
 - [x] Send Aditya intro emails ✅ 2024-07-30
 - [ ] Follow up with Shailu Tipparaju and Venugopal (Astarc) in August 
 - [ ] Email SHL ventures
+- [x] Message Anirudh Joshi and see if you can get any intros ✅ 2024-07-30
