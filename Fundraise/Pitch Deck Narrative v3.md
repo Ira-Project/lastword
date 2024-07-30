@@ -13,7 +13,7 @@ Date Created: 2024-06-12
 
 
 ### Slide 3 - Solution
-- Our goal is to model a students brain particularly their knowledge state and cognitive style so we can recommend content personalised to them.
+- Our goal is We model a students brain particularly their knowledge state and cognitive style so we can recommend content personalised to them.
 
 
 ### Slide 4 - How it Works currently - Likhit

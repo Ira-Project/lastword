@@ -32,7 +32,7 @@ So far we've conducted user interviews with those people that we know. While the
 - [x] Email math teachers from private and charter schools in Georgia ✅ 2024-07-10
 - [x] Follow up email to Math teachers with second email in the drip template 📅 2024-07-17 ✅ 2024-07-17
 - [x] Send a follow up email to William 📅 2024-07-22 ✅ 2024-07-23
-- [ ] Speak to Aditya on customer acquisition
+- [x] Speak to Aditya on customer acquisition ✅ 2024-07-30
 - [ ] Send a follow up email to Chris 
 - [ ] Prospecting 100 school administrators emails
 - [ ] Prospecting 100 education technology leaders emails
