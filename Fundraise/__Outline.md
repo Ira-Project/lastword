@@ -29,6 +29,10 @@ Our goal is to raise some funding so we can sustain ourselves and build our what
 - [x] Scour through Aditya's LinkedIn for warm intros ✅ 2024-07-26
 - [x] Redo the Ira Project deck ✅ 2024-07-30
 - [x] Send Aditya intro emails ✅ 2024-07-30
+- [x] Email SHL ventures ✅ 2024-07-31
+- [x] Sort out the investor list ✅ 2024-08-02
+- [ ] Check Vivans list 
+- [ ] Check bookmarked list
+- [ ] Follow up with Shubh and Jai
+- [ ] Set up call with Anirudh Joshi and see if you can get any intros
 - [ ] Follow up with Shailu Tipparaju and Venugopal (Astarc) in August 
-- [ ] Email SHL ventures
-- [x] Message Anirudh Joshi and see if you can get any intros ✅ 2024-07-30

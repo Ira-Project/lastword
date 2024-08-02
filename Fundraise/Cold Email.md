@@ -49,3 +49,9 @@ Best,
 Vignesh 
 CEO, Ira Project
 
+
+---
+
+Hi , We are building the Ira Project a platform that maps students’ mental models to generate personalised learning paths. Our founding team has worked in education for the last seven years and has scaled startups to 100k+ users. Would love to show you what we're building and share our vision.
+
+
