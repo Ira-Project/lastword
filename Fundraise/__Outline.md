@@ -31,8 +31,9 @@ Our goal is to raise some funding so we can sustain ourselves and build our what
 - [x] Send Aditya intro emails ✅ 2024-07-30
 - [x] Email SHL ventures ✅ 2024-07-31
 - [x] Sort out the investor list ✅ 2024-08-02
-- [ ] Check Vivans list 
-- [ ] Check bookmarked list
+- [x] Check Vivans list ✅ 2024-08-03
+- [x] Check bookmarked list ✅ 2024-08-03
 - [ ] Follow up with Shubh and Jai
 - [ ] Set up call with Anirudh Joshi and see if you can get any intros
+- [ ] Follow up with Yi after August 16th
 - [ ] Follow up with Shailu Tipparaju and Venugopal (Astarc) in August 
